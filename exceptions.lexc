@@ -1,0 +1,185 @@
+!! Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+!! else. This file contains all enumerated word forms that cannot reasonably be
+!! created from lexical data by regular inflection. Usually there should be next
+!! to none exceptions, it's always better to have a paradigm that covers only
+!! one or few words than an exception since these will not work nicely with e.g.
+!! compounding scheme or possibly many end applications.
+
+LEXICON EXCEPTIONS
+
+!! verbs of negation have partial inflection:
+!! € аволь
+!! € иля
+!! € эзь
+!аволть+V+Neg+Conj+ScPl3:авольть # ;
+!аволь+V+Neg+Conj@P.CONJ.ObjAll@:а@P.CONJ.ObjAll@  ConjPers-withO-all ;
+!аволь+V+Neg+Conj+ScSg3:аволь # ;
+!эзть+V+Neg+Ind+Prt1+ScPl3@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.6%0@:эзть00000@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.6%0@ # ;
+!эзь+V+Neg+Ind@P.CONJ.ObjAll@:эзь000@P.CONJ.ObjAll@ IndicativePrt2_kadoms ;
+!эзь+V+Neg@P.CONJ.ObjAll@:эзь00@P.CONJ.ObjAll@ IND-PRT1-all-but-Sc3 ;
+!эзь+V+Neg+Ind+Prt1+ScSg3@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.3%0@:эзь00000@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.3%0@ # ;
+эзь+Err/Orth+V+Neg+Ind+Prt1+ScPl3@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.6%0@:эсть00000@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.6%0@ # ;
+эзь+V+Neg+Ind+Prt1+ScSg3+OcSg3:эсе # ;
+
+!! The verb ярсамс has additional irregular forms:
+!! € ярстано
+!! € ярстадо
+ярсамс+V:ярс     IND-PRS-40    ;
+ярсамс+V:ярс     IND-PRS-50    ;
+
+
+
+!! Some of the nouns have archaic consonat stem forms left:
+!! € ийть
+
+ие+N:ий%>     PL-NOM-INDEF ;
+
+ломань+N+Pl+Nom+Indef+Err/Orth:ломать K ;
+ломань+N+Err/Orth:лома NMN_DEF-PL-DECLENSION ;
+
+!! Reciprocal pronouns
+!! These might be done with flags
+вейкенек-вейкенек+Pron+Recip+PxPl1:вейкенек-вейкенек K ;
+вейкенк-вейкенк+Pron+Recip+PxPl2:вейкенк-вейкенк K ;
+вейкест-вейкест+Pron+Recip+PxPl3:вейкест-вейкест K ;
+
+!!
+!! These two stems have м loss but its presence can be
+!! observed in the choice of "тнэ" over "тне"
+!! This has special hard after lost consonant
+истямо+Pron+Dem+Pl+Nom+Def:истятнэ _KUDO-NomPl-Conjugation ;
+истямо+Pron+Dem+Pl+Gen+Def:истятнэнь K ;
+истямо+Pron+Dem+Pl+DatCx+Def:истятнэнь K ;
+истямо+Pron+Dem+Pl+Abl+Def:истятнэде K ;
+истямо+Pron+Dem+Pl+Ela+Def:истятнэстэ K ;
+истямо+Pron+Dem+Pl+Ill+Def:истятнэс K ;
+истямо+Pron+Dem+Pl+Ine+Def:истятнэсэ K ;
+истямо+Pron+Dem+Pl+Prl+Def:истятнэва K ;
+истямо+Pron+Dem+Pl+Cmpr+Def:истятнэшка K ;
+истямо+Pron+Dem+Pl+Abe+Def:истятнэвтеме K ;
+истямо+Pron+Dem+Pl+Tra+Def:истятнэкс K ;
+истямо+Pron+Dem+Pl+Lat+Def:истятнэв K ;
+истямо+Pron+Dem+Pl+Nom+Indef:истят K ;
+!! This has special hard after lost consonant
+кондямо+Po+A+Der/MWN+Pron+Pl+Nom+Def:кондятнэ _KUDO-NomPl-Conjugation ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Gen+Def:кондятнэнь K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+DatCx+Def:кондятнэнь K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Abl+Def:кондятнэде K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Ela+Def:кондятнэстэ K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Ill+Def:кондятнэс K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Ine+Def:кондятнэсэ K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Prl+Def:кондятнэва K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Cmpr+Def:кондятнэшка K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Abe+Def:кондятнэвтеме K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Tra+Def:кондятнэкс K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Lat+Def:кондятнэв K ;
+кондямо+Po+A+Der/MWN+Pron+Pl+Nom+Indef:кондят K ;
+
+!! 1930s Phonetic transcription
+!! дс >> ц
+ладсо+Adv+Ine+Err/Orth:лацо K ;
+!! гт >> к
+мекевлангт+Adv+Err/Orth:мекевланк K ;
+мекевлангт+Adv+Err/Orth:мекевланг K ; !!= @CODE@ Half way between morphology and phonetics with a Russian twist 
+
+!! !PRONOUNS
+мезе:мезева PRON-IS-INTERR-SPAT-PRL ;
+мезе:мезестэ PRON-IS-INTERR-SPAT-ELA ;
+мезе:мезесэ PRON-IS-INTERR-SPAT-INE ;
+лия-мезе:лия-мезе PRON_ ;
+
+!! !QUANTIFIERS
+сисем+Num+Ord:сисеме NUMORD_KUDO ; !!= @CODE@ This is irregularly formed, cf. сисемце
+
+!! !PLACE NAMES
+Саранской:Саранской PROP-PLC_KAL "" ;
+Москов:Москов PROP-PLC_KAL "" ;
+Отяжеле:Отяжеле PROP-PLC_KUDO "" ;
+Ташто% Шайгова:Ташто% Шайгова PROP-PLC_KUDO "" ;
+
+
+!!Biblical names
+
+!
+!
+фарисей:фарисей N_KAL ;
+саддукей:саддукей N_KAL ;
+!
+пежетев:пежетев A_KAL ;
+! In Komi Индія
+
+! Erzya variant
+Троцкой CYRL-CONS_SUR ;
+Магеллан CYRL-CONS_SUR ;
+!
+
+!! 100 % homographs of Russian words
+вот+Use/SpellNoSugg+Interj+Dem:вот K ;
+значит+Use/SpellNoSugg+V+Ind+Prs+ScSg3:значит K ;
+ещё+Err/Lex:эщо TEMP_ ;
+ещё+Err/Lex:ещё TEMP_ ;
+можна+Err/Lex:можна ADV_ ;
+тожо+Err/Lex:тожо ADV_ ;
+Саранск+Err/Lex:Саранск PROP-SETTLEMENT_KAL ;
+
+
+!!
+!! adjectives in _ой_ Adj-od >> A_RU-OJ
+!! with  +Use/SpellNoSugg
+багажной:багажной A_RU-OJ ;
+високосной:високосной A_RU-OJ ;
+возможной:возможной A_RU-OJ ;
+горячевской:горячевской A_RU-OJ ;
+крепкой:крепкой A_RU-OJ ;
+ледовитой:ледовитой A_RU-OJ ;
+литературно-художественной:литературно-художественной A_RU-OJ ;
+обзорной:обзорной A_RU-OJ ;
+общественно-политической:общественно-политической A_RU-OJ ;
+парно-копытной:парно-копытной A_RU-OJ ;
+портвейной:портвейной A_RU-OJ ;
+постоянной:постоянной A_RU-OJ ;
+профессорско-преподавательской:профессорско-преподавательской A_RU-OJ ;
+разнообразной:разнообразной A_RU-OJ ;
+скандальной:скандальной A_RU-OJ ;
+спокой:спокой A_RU-OJ ;
+тропической:тропической A_RU-OJ ;
+умеренной:умеренной A_RU-OJ ;
+чувашской:чувашской A_RU-OJ ;
+чудаковатой:чудаковатой A_RU-OJ ;
+ономатопоэтической:ономатопоэтической A_RU-OJ ;
+
+!!
+!! +SP+Gen+Indef attributes as adjectives
+григорианонь:григорианонь A-IS-GEN "" ;
+Пелевеёнксонь-Кавказонь:Пелевеёнксонь-#Кавказонь A-IS-GEN "" ;
+Хантонь-Мансинь:Хантонь-#Мансинь A-IS-GEN "" ;
+
+!! Russian language words found in Erzya texts
+!!
+
+
+!! unrecognized
+весень-вейсэнь A-IS-GEN "" ;
+преамбула:преамбула N_KUDO "" ;
+мирэнь-эрямонь:мирэнь-эрямонь A-IS-GEN "" ;
+тирания:тирания N_KUDO "" ;
+молема-прогрес:молема-прогрес N_OSH "" ;
+раськеютконь:раськеютконь A-IS-GEN "kansainvälinen" ;
+юрисдикция:юрисдикция N_KUDO "" ;
+микшнема-рамсема:микшнема-рамсема N_KUDO "" ;
+!илязт
+!урьвакстомсто-мирденень лисемстэяк
+полаксчи:полаксчи N_KUDO "" ;
+!урьвакстомась-мирденень лисемась
+полаиця:полаиця N_KUDO "" ;
+арсемань-вановтонь:арсемань-вановтонь A-IS-GEN "" ;
+!ёвтнемань-тонавтомань
+!теемс-пурнамс
+сатышкачи:сатышкачи N_KUDO "" ;
+!сыненст
+полаямс:полая IV_KUNDAMS "avioitua" ;
+яволявтовомс:яволявтов IV_JANGAVOMS "tulla julistetuksi" ;
+!кастома-панжома
+вейке-вейкень:вейке-вейкень A-IS-GEN "" ;
+важодевкс:важодевкс N_OSH "" ;
+вейсэнь-паро A_KUDO "" ;
