@@ -3820,7 +3820,9 @@
      </stg>
    </lg> <morphg> <morph type="V">андтлесь</morph> <morph type="V">андтлекшнесь</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="андтнемс" semRelType="see"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -7558,8 +7560,8 @@
      <defNative/>
      <tg xml:lang="rus">
        <t pos="V">выспаться</t>
-       <t pos="V">наесться досыта.</t>
-       <t pos="V">уложить спать.</t>
+       <t pos="V">наесться досыта</t>
+       <t pos="V">уложить спать</t>
      </tg>
    </mg>
 </e>
@@ -7792,7 +7794,9 @@
      </stg>
    </lg> <morphg> <morph type="V">баславась</morph> <morph type="V">баславакшнось</morph> <morph type="V">баславакшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="чанстямс" semRelType="seeNative"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="rus">
        <t pos="V">благословить</t>
@@ -8209,7 +8213,7 @@
    <mg>
      <defNative>Теде башка, безардема мерить ацирьгалемантень, музгордемантень. Авардезь музгордемантень.</defNative>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">надоедать(кому-л.)</t>
+       <t pos="V" val="IV">надоедать (кому-л.)</t>
      </tg>
    </mg>
 </e>
@@ -11397,6 +11401,10 @@
        <t pos="V" val="IV">loiskahtaa</t>
        <t pos="V" val="IV">pulputtaa</t>
      </tg>
+     <xg>
+       <x>Маряви, кода боцькасонть булдорды ведесь.</x>
+       <xt/>
+     </xg>
    </mg>
    <mg>
      <defNative/>
@@ -11408,10 +11416,6 @@
        <t pos="V" val="IV">плескаться</t>
        <t pos="V" val="IV">бултыхаться</t>
      </tg>
-     <xg>
-       <x>Маряви, кода боцькасонть булдорды ведесь.</x>
-       <xt/>
-     </xg>
      <xg>
        <x>мезть булдорды, кияк a чарькодьсы</x>
        <xt xml:lang="fin">mitä hän höpisee, kukaan ei ymmärrä häntä</xt>
@@ -12125,7 +12129,9 @@
      </stg>
    </lg> <morphg> <morph type="V">бухадсь</morph> <morph type="V">бухаекшнесь</morph> <morph type="V">бухаемс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="бахадемс" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V">(puh.) pamauttaa, paukauttaa</t>
@@ -12972,7 +12978,9 @@
      </stg>
    </lg> <morphg> <morph type="V">важдась</morph> <morph type="V">важдакшнось</morph> <morph type="V">важдакшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="важодемс" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V">rauhoittaa</t>
@@ -13004,7 +13012,9 @@
      </stg>
    </lg> <morphg> <morph type="V">важдомссь</morph> <morph type="V">важдомскшнось</morph> <morph type="V">важдомскшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="важодемс" semRelType="see"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -13095,7 +13105,9 @@
      </stg>
    </lg> <morphg> <morph type="V">важодсь</morph> <morph type="V">важодкшнось</morph> <morph type="V">важодкшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="важодемс" semRelType="see"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -14291,7 +14303,8 @@
        <t pos="V" val="IV">hiipua (tuli)</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">погибнуть .потухнуть</t>
+       <t pos="V" val="IV">погибнуть</t>
+       <t pos="V" val="IV">потухнуть</t>
      </tg>
    </mg>
 </e>
@@ -16008,7 +16021,9 @@
      </stg>
    </lg> <morphg> <morph type="V">васодсь</morph> <morph type="V">васодекшнесь</morph> <morph type="V">васоемс</morph> <morph type="V">васолемс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="вастомс" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V">kohdata</t>
@@ -16590,7 +16605,9 @@
      </stg>
    </lg> <morphg> <morph type="V">вачась</morph> <morph type="V">вачнесь</morph> <morph type="V">вачакшнось</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="варчамс" semRelType="see"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -16980,7 +16997,7 @@
      <defNative>Теевемс вачокс.</defNative>
      <tg xml:lang="fin">
        <t pos="V" val="IV">nälkiintyä</t>
-       <t pos="V" val="IV">olla nälissään.</t>
+       <t pos="V" val="IV">olla nälissään</t>
      </tg>
      <xg>
        <x>мон вачоминь</x>
@@ -19107,7 +19124,7 @@
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="V">(kiij.) taittaa</t>
+       <t pos="V">(kirj.) taittaa</t>
      </tg>
    </mg>
 </e>
@@ -30238,7 +30255,9 @@
      </etymology>
    </lg> <morphg> <morph type="V">жарясь</morph> <morph type="V">жарякшнось</morph> <morph type="V">жарякшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="рестамс" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V" val="IV">paistaa</t>
@@ -30935,7 +30954,9 @@
      </stg>
    </lg> <morphg> <morph type="V">жольнесь</morph> <morph type="V">жольнекшнесь</morph> <morph type="V">жольнекшнемс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="шольнемс" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V" val="IV">solista</t>
@@ -31932,8 +31953,10 @@
      </stg>
    </lg> <morphg> <morph type="V">звонясь</morph> <morph type="V">звонсесь</morph> <morph type="V">звонякшнось</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="гайневтемс" semRelType="seeNative"/>
        <semRel lemmaID="гайгстамс" semRelType="seeNative"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -34863,7 +34886,9 @@
      </stg>
    </lg> <morphg> <morph type="V">илясь</morph> <morph type="V">илянесь</morph> <morph type="V">илякшнось</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="ильнемс" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V" val="IV">läkähtyä</t>
@@ -35377,7 +35402,7 @@
    <mg>
      <defNative/>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">рычать.</t>
+       <t pos="V" val="IV">рычать</t>
      </tg>
    </mg>
 </e>
@@ -38892,7 +38917,7 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="V" val="IV">звенеть</t>
-       <t pos="V" val="IV">дребезжать.</t>
+       <t pos="V" val="IV">дребезжать</t>
      </tg>
      <xg>
        <x>Кальдердемс чакш пелькссэ.</x>
@@ -39396,7 +39421,7 @@
        <t pos="V" val="IV">keskustella</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">калякать.</t>
+       <t pos="V" val="IV">калякать</t>
      </tg>
    </mg>
 </e>
@@ -40130,7 +40155,7 @@
    <mg>
      <defNative>Сельмесэ апаро ёжонь марямо.</defNative>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">скрипеть. Болеть.</t>
+       <t pos="V" val="IV">скрипеть. Болеть</t>
      </tg>
      <xg>
        <x>Сорявозь сельмесь канзёрды. Качамодонть сельмень канзёрдыть.</x>
@@ -44888,7 +44913,7 @@
    <mg>
      <defNative/>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">окрепнуть.</t>
+       <t pos="V" val="IV">окрепнуть</t>
      </tg>
    </mg>
 </e>
@@ -46637,7 +46662,7 @@
        <t pos="V">töytäistä</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V">боднуть.</t>
+       <t pos="V">боднуть</t>
      </tg>
      <xg>
        <x>Иляк максо прят кечкердемс, тук реветнень вакссто. Баранось снарты кечкердемс.</x>
@@ -48317,7 +48342,7 @@
    <mg>
      <defNative>Лиякс «кыргамс». Граблясо пурнамс ве таркас.</defNative>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">очищать.</t>
+       <t pos="V" val="IV">очищать</t>
      </tg>
      <xg>
        <x>Ават, азёдо тикшень кыргамо, те шкас коськсь. Сравтозь тикшетнень эрявить кыргамс.</x>
@@ -48450,7 +48475,7 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="V">держать</t>
-       <t pos="V">выдержать.</t>
+       <t pos="V">выдержать</t>
      </tg>
      <xg>
        <x>Кирдемс вакссот ялга. Кирдемс важдыця ломань.</x>
@@ -55289,7 +55314,9 @@
      </etymology>
    </lg> <morphg> <morph type="V">красясь</morph> <morph type="V">красякшнось</morph> <morph type="V">красякшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="артомс" semRelType="seeNative"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V">maalata</t>
@@ -59442,7 +59469,9 @@
      </stg>
    </lg>
    <mg>
+     <semantics>
        <semRel lemmaID="кутстямс" semRelType="synonym"/>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="V">щекотать</t>
      </tg>
@@ -61045,7 +61074,9 @@
      <defNative>Неень шкава ладямо мерить тейтерень чиямонтень.</defNative>
    </mg>
    <mg>
+     <semantics>
        <semRel lemmaID="савтомс" semRelType="see"/>
+     </semantics>
      <defNative>Теде башка, ладямс лиясто мерить «савтомс» валонть таркас. Ладямс ни марто. Ладямс вейсэ эрямсто.</defNative>
    </mg>
 </e>
@@ -68209,7 +68240,9 @@
      </stg>
    </lg> <morphg> <morph type="V">лопавтнесь</morph> <morph type="V">лопавтнекшнесь; весть:</morph> <morph type="V">лопавтомс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="муськемс" semRelType="see"/>
+     </semantics>
      <defNative>Шлямс пси ведьсэ сапонь марто коцтонь оршамопельть ─ панарт, понкст, пацят ды лият мезть.</defNative>
      <tg xml:lang="fin">
        <t pos="V">pestä pyykkiä</t>
@@ -70018,7 +70051,9 @@
      </stg>
    </lg> <morphg> <morph type="V">лыбордсь</morph> <morph type="V">лыбордокшнось</morph> <morph type="V">лыбордокшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="либордомс" semRelType="see"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -71377,7 +71412,7 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="V" val="IV">прилечь</t>
-       <t pos="V" val="IV">улечься.</t>
+       <t pos="V" val="IV">улечься</t>
      </tg>
    </mg>
 </e>
@@ -73490,7 +73525,7 @@
      <defNative>Мейсэяк кармавтомс машнеме. Машневтемс стяконь кортамсто. Машневтемс эрьва чинь сакшномасо эли мезеньгак вешемасо.</defNative>
      <tg xml:lang="rus">
        <t pos="V">злить</t>
-       <t pos="V">раздражать.</t>
+       <t pos="V">раздражать</t>
      </tg>
    </mg>
 </e>
@@ -74640,7 +74675,9 @@
      </stg>
    </lg> <morphg> <morph type="V">менстясь</morph> <morph type="V">менстякшнось</morph> <morph type="V">менстнемс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="менстемс" semRelType="see"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -75362,7 +75399,7 @@
        <t pos="V" val="IV">hymähtää</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">улыбнуться.</t>
+       <t pos="V" val="IV">улыбнуться</t>
      </tg>
    </mg>
 </e>
@@ -76806,7 +76843,7 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="V" val="IV">трещать</t>
-       <t pos="V" val="IV">ворчать.</t>
+       <t pos="V" val="IV">ворчать</t>
      </tg>
      <xg>
        <x>Якамсто мотордомс пуренень. Лакамсто мотордомс куслянень.</x>
@@ -77366,7 +77403,7 @@
        <t pos="V" val="IV">povata</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">ворожить.</t>
+       <t pos="V" val="IV">ворожить</t>
      </tg>
    </mg>
 </e>
@@ -77437,7 +77474,9 @@
      </stg>
    </lg> <morphg> <morph type="V">мурдавсь</morph> <morph type="V">мурдавкшнось</morph> <morph type="V">мурдавкшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="пурдавомс мекев" semRelType="synonym"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="rus">
        <t pos="V" val="IV">повернуться</t>
@@ -83733,7 +83772,9 @@
      </stg>
    </lg> <morphg> <morph type="V">нолштась</morph> <morph type="V">нолштакшнось</morph> <morph type="V">нолштнемс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="ноламс" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V">nuolaista</t>
@@ -91487,11 +91528,11 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="TV">панемс</l>
+     <l hid="Hom1" pos="V" val="TV">панемс</l>
      <stg>
        <st Contlex="TV_LEDEMS-ObjAll">пань</st>
      </stg>
-   </lg> <phonet>I</phonet> <morphg> <morph type="V">пансь</morph> <morph type="V">панекшнесь</morph> <morph type="V">пансемс</morph> </morphg>
+   </lg>
    <mg>
      <defNative>Кармавтомс, меремс туеме.</defNative>
      <tg xml:lang="fin">
@@ -91518,7 +91559,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="TV">панемс</l>
+     <l hid="Hom2" pos="V" val="TV">панемс</l>
        <l_cogn pos="V" xml:lang="fin">panna</l_cogn>
      <stg>
        <st Contlex="TV_LEDEMS-ObjAll">пань</st>
@@ -93488,7 +93529,9 @@
      </etymology>
    </lg> <morphg> <morph type="V">пеелесь</morph> <morph type="V">пеелекшнесь; весть:</morph> <morph type="V">пеедемс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="пейтькшнемс" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V" val="IV">naureskella</t>
@@ -94425,7 +94468,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="TV">пелемс</l>
+     <l hid="Hom2" pos="V" val="TV">пелемс</l>
      <stg>
        <st Contlex="TV_PIDEMS-ObjAll">пеле</st>
      </stg>
@@ -94449,13 +94492,14 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="IV">пелемс</l>
-       <l_cogn pos="V" xml:lang="fin">pelätä</l_cogn>
-       <l_cogn pos="V" xml:lang="sme">ballat</l_cogn>
+     <l hid="Hom1" pos="V" val="IV">пелемс</l>
      <stg>
        <st Contlex="IV_KADOMS">пӒ4ль</st>
      </stg>
-     <etymology> <etym>[-æ-е-</etym>
+     <etymology>
+       <etym>[-æ-е-</etym>
+       <cognate pos="V" xml:lang="fin">pelätä</cognate>
+       <cognate pos="V" xml:lang="sme">ballat</cognate>
      </etymology>
    </lg>
      <sources>
@@ -97886,9 +97930,9 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="IV">пинжэдемс</l>
+     <l pos="V" val="IV">пинжедемс</l>
      <stg>
-       <st Contlex="IV_LEDEMS">пинжэдь</st>
+       <st Contlex="IV_LEDEMS">пинжедь</st>
      </stg>
    </lg>
    <mg>
@@ -97897,9 +97941,9 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="IV">пинжэлемс</l>
+     <l pos="V" val="IV">пинжелемс</l>
      <stg>
-       <st Contlex="IV_PIDEMS">пинжэле</st>
+       <st Contlex="IV_PIDEMS">пинжеле</st>
      </stg>
    </lg>
    <mg>
@@ -127197,7 +127241,9 @@
      </stg>
    </lg> <morphg> <morph type="V">сятордсь</morph> <morph type="V">сятордокшнось</morph> <morph type="V">сятордокшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="цятордома" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V" val="IV">ritistä</t>
@@ -127324,7 +127370,9 @@
      </stg>
    </lg> <morphg> <morph type="V">сёвнолгадсь</morph> <morph type="V">сёвнолгадокшнось</morph> <morph type="V">сёвнолгалемс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="сёвнозевемс" semRelType="see"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -128978,7 +129026,9 @@
      </stg>
    </lg> <morphg> <morph type="V">танцовась</morph> <morph type="V">танцовакшнось</morph> <morph type="V">танцовакшномс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="киштемс" semRelType="see"/>
+     </semantics>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V" val="IV">tanssia</t>
@@ -141258,7 +141308,7 @@
      <tg xml:lang="fin">
        <t pos="V">kuljettaa</t>
        <t pos="V">vetää</t>
-       <t pos="V">ajaa.</t>
+       <t pos="V">ajaa</t>
      </tg>
      <tg xml:lang="fra">
        <t pos="V">tirer</t>
@@ -144907,7 +144957,9 @@
      </stg>
    </lg> <morphg> <morph type="V">цилькадсь</morph> <morph type="V">цилькадекшнесь</morph> <morph type="V">цилькаемс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="цильцядемс" semRelType="synonym"/>
+     </semantics>
      <defNative>Сельгемс пеень пачк. Мезеньгак пачк пургамс ведьсэ.</defNative>
      <tg xml:lang="fin">
        <t pos="V" val="IV">roiskahtaa</t>
@@ -145070,7 +145122,7 @@
    <mg>
      <defNative/>
      <tg xml:lang="rus">
-       <t pos="V" val="IV">брызнул.</t>
+       <t pos="V" val="IV">брызнул</t>
      </tg>
      <xg>
        <x>Верце кавто пеензэ аштить чуросто, се чаво таркаванть цильцяди васов ды яла ваны, козонь пры сельгесь.</x>
@@ -160738,7 +160790,9 @@
      </stg>
    </lg> <morphg> <morph type="V">эльведсь</morph> <morph type="V">эльведекшнесь</morph> <morph type="V">эльведекшнемс</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="ильведемс" semRelType="see"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -165874,7 +165928,9 @@
      </stg>
    </lg> <morphg> <morph type="V">ёвардсь</morph> <morph type="V">ёвардокшнось</morph> </morphg>
    <mg>
+     <semantics>
        <semRel lemmaID="ёрвалдомс" semRelType="see"/>
+     </semantics>
      <defNative/>
    </mg>
 </e>
