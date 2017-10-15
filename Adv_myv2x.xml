@@ -2117,6 +2117,9 @@
      <tg xml:lang="fin">
        <t pos="Adv">ylös</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>вверху, наверху, высоко</t>
+     </tg>
      <defNative>Аволь алов</defNative>
    </mg>
 </e>
