@@ -885,6 +885,26 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Interj">да беш</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="INTERJ_">да беш</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Interj">как бишь</t>
+     </tg>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="Interj">да-беш</l>
      <stg>
@@ -985,6 +1005,27 @@
        <x src="Моросто">"Вай, дугинем, молевлинь, вай, дугинем, пачтявлинь..."</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Interj">ды тига!</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="INTERJ_">ды тига!</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Interj">и драть!</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2133,21 +2174,26 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Interj">шумбрань парочи</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st>шумбрань парочи</st>
-     </stg>
+       <st Contlex="INTERJ_">шумбрань парочи</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus">
-       <t>здаровье</t>
+     <tg xml:lang="eng">
+       <t pos="Interj">greetings</t>
      </tg>
-     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Interj">здаровье</t>
+     </tg>
    </mg>
 </e>
 <e id="None" meta="">

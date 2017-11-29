@@ -490,25 +490,6 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Pcle">нать</l>
-     <stg>
-       <st Contlex="PCLE_">нать</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative>кортамсто лездыця вал. Ёвтави сестэ, зярдо кортыцясь невти аламодо акемема.</defNative>
-     <xg>
-       <x>Нать, ялго сыть? Нать, ванды туят? Сонензэ истямо сталмось, нать, кепедеви.</x>
-       <xt/>
-     </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
      <l pos="Pcle">некак</l>
      <stg>
        <st Contlex="PCLE_">некак</st>

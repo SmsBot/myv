@@ -332,28 +332,6 @@
    </mg>
 </e>
 <e id="None" meta="">
-   <map/>
-   <lg>
-     <l pos="Det">омбо</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="QNT_">омбо</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <xg>
-       <x>Омбо мастор. Омбо велень ломань. Туевинь омбо киява. Паксянь омбо песэ.</x>
-       <xt/>
-     </xg>
-     <defNative>(а полавтневи) Лия, омбоце, тона.</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
    <lg>
      <l pos="Det">омботькс</l>
      <stg>
@@ -407,26 +385,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Det">пире</l>
-     <stg>
-       <st Contlex="DEM_ALCE">пире#ёнце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-     <xg>
-       <x>Мольсь пире ёнце латонть алов ды…</x>
-       <xt/>
-     </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Det">пире#ёнце</l>
+     <l pos="Det">пиреёнце</l>
      <stg>
        <st Contlex="DEM_ALCE">пире#ёнце</st>
      </stg>

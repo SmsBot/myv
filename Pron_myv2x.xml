@@ -2009,6 +2009,29 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Pron">тентеме</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="PRON_">тентеме</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="">without it</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="">ilman sitä</t>
+     </tg>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="Pron" type="Dem">теньстэ</l>
      <stg>

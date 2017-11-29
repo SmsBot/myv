@@ -2437,35 +2437,6 @@
    </mg>
 </e>
 <e id="None" meta="">
-   <map/>
-   <lg>
-     <l pos="Num">сядо</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="NUM_SJADO">сяд</st>
-     </stg>
-       <l_cogn pos="Num" xml_lang="sme">čuohti</l_cogn> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="eng">
-       <t pos="Num">hundred</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="Num">sata</t>
-     </tg>
-     <xg>
-       <x>Сядо иетнестэ ─ пинге. Сядо чить. Минек велесэнть сядо кудот.</x>
-       <xt/>
-     </xg>
-     <defNative>Ловома вал. Кеменесь кеменксть. Кеменесь кеменьгирда.</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
    <lg>
      <l pos="Num">сядоксть</l>
      <stg>

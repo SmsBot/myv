@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adv">а васоло</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st>а васоло</st>
-     </stg>
+       <st Contlex="ADV_">а васоло</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -14,7 +17,7 @@
      <tg xml:lang="rus">
        <t pos="Adv">недалеко</t>
      </tg>
-     <defNative/>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -107,11 +110,14 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adv">а истя</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st>а истя</st>
-     </stg>
+       <st Contlex="ADV_">а истя</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -121,15 +127,17 @@
      <tg xml:lang="rus">
        <t pos="Adv">не так</t>
      </tg>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adv">а истяня</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st>а истяня</st>
-     </stg>
+       <st Contlex="ADV_">а истяня</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -139,7 +147,7 @@
      <tg xml:lang="rus">
        <t pos="Adv">не таким образом</t>
      </tg>
-     <defNative/>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -253,11 +261,14 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adv">а мельсэ</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st>а мельсэ</st>
-     </stg>
+       <st Contlex="ADV_">а мельсэ</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -267,7 +278,6 @@
      <tg xml:lang="rus">
        <t pos="Adv">критически</t>
      </tg>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2546,6 +2556,47 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">верев 1</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st>верев 1</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="tzl">
+       <t pos="">x</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">верев 2</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st>верев 2</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="tzl">
+       <t pos="undefined">x</t>
+     </tg>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="Adv">веревпандт</l>
      <stg>
@@ -2897,6 +2948,30 @@
      <semantics>
      </semantics>
      <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">вить ёнов</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">вить ёнов</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">oikealle</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">вправо</t>
+     </tg>
+     <defNative>вить кедь ёнов</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -7535,6 +7610,28 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">нать</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV-PARENTHETIC_">нать</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <xg>
+       <x>Нать, ялго сыть? Нать, ванды туят? Сонензэ истямо сталмось, нать, кепедеви.</x>
+       <xt/>
+     </xg>
+     <defNative>кортамсто лездыця вал. Ёвтави сестэ, зярдо кортыцясь невти аламодо акемема.</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="Adv">нацькес</l>
      <stg>
@@ -9961,6 +10058,29 @@
        <x>Смелстэ якамс чопода вирьга. Смелстэ кортамс.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">содазь</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV-PARENTHETIC_">содазь</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">of course</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">tietysti</t>
+     </tg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -12873,7 +12993,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st>эрьва кода</st>
+       <st Contlex="ADV_">эрьва кода</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -12881,30 +13001,14 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">in all kinds of ways</t>
+     </tg>
      <tg xml:lang="rus">
-       <t pos="undefined">всячески</t>
-       <t pos="undefined">по-разному</t>
+       <t pos="Adv">всячески</t>
+       <t pos="Adv">по-разному</t>
      </tg>
      <defNative>null</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">эрьва кода</l>
-     <stg>
-       <st>эрьва кода</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="rus">
-       <t>всячески</t>
-       <t>по-разному</t>
-     </tg>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -12914,7 +13018,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st>эрьва косо</st>
+       <st Contlex="ADV_">эрьва косо</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -12922,28 +13026,16 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">everywhere</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">kaikkialla</t>
+     </tg>
      <tg xml:lang="rus">
        <t pos="undefined">везде</t>
      </tg>
      <defNative>null</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">эрьва косо</l>
-     <stg>
-       <st>эрьва косо</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="rus">
-       <t>везде</t>
-     </tg>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -12953,7 +13045,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st>эрьва косто</st>
+       <st Contlex="ADV_">эрьва косто</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -12961,28 +13053,15 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus">
-       <t pos="undefined">отовсюду</t>
+     <tg xml:lang="eng">
+       <t pos="Adv">from everywhere</t>
      </tg>
-     <defNative>null</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">эрьва косто</l>
-     <stg>
-       <st>эрьва косто</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="rus">
-       <t>отовсюду</t>
+     <tg xml:lang="fin">
+       <t pos="Adv">kaikkialta</t>
      </tg>
-     <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Adv">отовсюду</t>
+     </tg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -12992,7 +13071,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st>эрьва кува</st>
+       <st Contlex="ADV_">эрьва кува</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -13000,28 +13079,12 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus">
-       <t pos="undefined">везде</t>
+     <tg xml:lang="eng">
+       <t pos="Adv">everywhere</t>
      </tg>
-     <defNative>null</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">эрьва кува</l>
-     <stg>
-       <st>эрьва кува</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="rus">
-       <t>везде</t>
+       <t pos="Adv">везде</t>
      </tg>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -13233,36 +13296,6 @@
        <x>Косто неить: вейкетть ломанть улевельть ялгацекс?</x>
        <xt/>
      </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <map/>
-   <lg>
-     <l pos="Adv">ялго</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="PRED2-SUBJ_KUDO">ялго</st>
-     </stg>
-       <l_cogn pos="N" src="Bereczki:2013" xml_lang="mrj">ял</l_cogn> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="eng">
-       <t pos="Adv">on foot</t>
-       <t pos="Adv">afoot</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="Adv">jalkaisin</t>
-       <t pos="Adv">jalan</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="Adv">пешком</t>
-     </tg>
-     <defNative>Эсеть пильгсэ, эскелязь. Молемс ялго. Пачкодемс ялго. Свал якамс ялго. Ялго якамось вельть паро. ‹› ласте, ардозь, венчсэ.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
