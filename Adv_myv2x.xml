@@ -823,7 +823,7 @@
    <lg>
      <l pos="Adv">алга</l>
      <stg>
-       <st Contlex="Spat_">алга</st>
+       <st Contlex="ADV-SPAT-IS-PRL">алга</st>
      </stg>
    </lg>
      <sources>
@@ -855,7 +855,7 @@
    <lg>
      <l pos="Adv">алдо</l>
      <stg>
-       <st Contlex="Spat_">алдо</st>
+       <st Contlex="ADV-SPAT-IS-ABL">алдо</st>
      </stg>
    </lg>
      <sources>
@@ -982,7 +982,7 @@
    <lg>
      <l pos="Adv">ало</l>
      <stg>
-       <st Contlex="alo-Spat">ал</st>
+       <st Contlex="ADV-SPAT-IS-LOC">ало</st>
      </stg>
    </lg>
      <sources>
@@ -1014,7 +1014,7 @@
    <lg>
      <l pos="Adv">алов</l>
      <stg>
-       <st Contlex="Spat_">алов</st>
+       <st Contlex="ADV-SPAT-IS-LAT">алов</st>
      </stg>
    </lg>
      <sources>
