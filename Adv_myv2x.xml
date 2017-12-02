@@ -4280,6 +4280,7 @@
      <l pos="Adv" type="Assoc">кавоненек</l>
      <stg>
        <st Contlex="Assoc-Coll">кавоненек</st>
+       <st Contlex="Assoc-Coll">кавонек</st>
      </stg>
    </lg>
      <sources>
@@ -4288,6 +4289,9 @@
      <semantics>
      </semantics>
      <defNative>Кавонек, кавтонек. Минек эйстэ кавто.</defNative>
+     <tg xml:lang="rus">
+       <t pos="Adv">только вдвоем</t>
+     </tg>
      <xg>
        <x>Кинов якинек ялгань марто кавоненек.</x>
        <xt/>
@@ -4307,6 +4311,10 @@
      <semantics>
      </semantics>
      <defNative/>
+     <tg xml:lang="rus">
+       <t pos="Adv">двое</t>
+       <t pos="Adv">вдвоём</t>
+     </tg>
      <xg>
        <x>Тынь якиде лелянть марто кавоненк.</x>
        <xt/>
@@ -4326,6 +4334,14 @@
      <semantics>
      </semantics>
      <defNative>Сынст эйстэ кавто. ─</defNative>
+     <tg xml:lang="fin">
+       <t pos="Adv">kahdestaan</t>
+       <t pos="Adv">kaksin</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">вдвоём</t>
+       <t pos="Adv">вдвоём (они)</t>
+     </tg>
      <xg>
        <x>Сынь якасть патят-сазорт кавонест.</x>
        <xt/>
