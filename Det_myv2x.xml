@@ -24,7 +24,7 @@
    <lg>
      <l pos="Det" type="Qnt">аламошка</l>
      <stg>
-       <st Contlex="QNT_LAMO">аламошка</st>
+       <st Contlex="DET_LAMO">аламошка</st>
      </stg>
    </lg>
      <sources>
@@ -246,7 +246,7 @@
    <lg>
      <l pos="Det">конатанть</l>
      <stg>
-       <st Contlex="DET_">конатанть</st>
+       <st Contlex="IS-DET-SG-GEN-DEF">конатанть</st>
      </stg>
    </lg>
      <sources>
@@ -267,7 +267,7 @@
    <lg>
      <l pos="Det">конатась</l>
      <stg>
-       <st Contlex="DET_">конатась</st>
+       <st Contlex="IS-DET-SG-NOM-DEF">конатась</st>
      </stg>
    </lg>
      <sources>

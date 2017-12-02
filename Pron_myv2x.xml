@@ -501,7 +501,7 @@
    <lg>
      <l pos="Pron">мездеяк</l>
      <stg>
-       <st Contlex="Pron-Indef">мездеяк</st>
+       <st Contlex="PRON-INDEF_">мездеяк</st>
      </stg>
    </lg>
      <sources>
@@ -596,7 +596,7 @@
    <lg>
      <l pos="Pron">мезе-мезе</l>
      <stg>
-       <st Contlex="Pron-Indef">мезе-мезе</st>
+       <st Contlex="PRON-INDEF_">мезе-мезе</st>
      </stg>
    </lg>
      <sources>
@@ -642,7 +642,7 @@
    <lg>
      <l pos="Pron">мезевтемеяк</l>
      <stg>
-       <st Contlex="Pron-Indef">мезевтемеяк</st>
+       <st Contlex="PRON-INDEF_">мезевтемеяк</st>
      </stg>
    </lg>
      <sources>
@@ -680,11 +680,11 @@
      <defNative>Мезень эйсэ.</defNative>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="Pron">мезеяк</l>
      <stg>
-       <st Contlex="Pron-Indef">мезеяк</st>
+       <st Contlex="PRON-INDEF_">мезеяк</st>
      </stg>
    </lg>
      <sources>
@@ -970,7 +970,7 @@
    <lg>
      <l pos="Pron">минсь</l>
      <stg>
-       <st Contlex="Pron-Pers">минсь</st>
+       <st Contlex="PRON-PERS_">минсь</st>
      </stg>
    </lg>
      <sources>
@@ -1072,7 +1072,7 @@
    <lg>
      <l pos="Pron">монгеван</l>
      <stg>
-       <st Contlex="Pron-Pers">монгеван</st>
+       <st Contlex="PRON-PERS_">монгеван</st>
      </stg>
    </lg>
      <sources>
@@ -1100,7 +1100,7 @@
    <lg>
      <l pos="Pron">монсь</l>
      <stg>
-       <st Contlex="Pron-Pers">монсь</st>
+       <st Contlex="PRON-PERS_">монсь</st>
      </stg>
    </lg>
      <sources>
@@ -1143,7 +1143,7 @@
    <lg>
      <l pos="Pron">монтемень</l>
      <stg>
-       <st Contlex="Pron-Pers">монтемень</st>
+       <st Contlex="PRON-PERS_">монтемень</st>
      </stg>
    </lg>
      <sources>
@@ -1204,7 +1204,7 @@
    <lg>
      <l pos="Pron" type="Dem">ненень</l>
      <stg>
-       <st Contlex="DEM_">ненень</st>
+       <st Contlex="IS-PRON-DEM-PL-DAT-INDEF">ненень</st>
      </stg>
    </lg>
      <sources>
@@ -1305,7 +1305,7 @@
    <lg>
      <l pos="Pron" type="Dem">нонатне</l>
      <stg>
-       <st Contlex="DEM_">нонатне</st>
+       <st Contlex="IS-PRON-DEM-PL-NOM-DEF">нонатне</st>
      </stg>
    </lg>
      <sources>
@@ -1394,7 +1394,7 @@
    <lg>
      <l pos="Pron" type="Dem">сетне</l>
      <stg>
-       <st Contlex="DEM_">сетне</st>
+       <st Contlex="IS-PRON-DEM-PL-NOM-DEF">сетне</st>
      </stg>
    </lg>
      <sources>
@@ -1413,7 +1413,7 @@
    <lg>
      <l pos="Pron" type="Dem">сеть</l>
      <stg>
-       <st Contlex="DEM_">сеть</st>
+       <st Contlex="IS-PRON-DEM-PL-NOM-INDEF">сеть</st>
      </stg>
    </lg>
      <sources>
@@ -1509,7 +1509,7 @@
    <lg>
      <l pos="Pron">сонсь</l>
      <stg>
-       <st Contlex="Pron-Pers">сонсь</st>
+       <st Contlex="PRON-PERS_">сонсь</st>
      </stg>
    </lg>
      <sources>
@@ -1536,7 +1536,7 @@
    <lg>
      <l pos="Pron">сындест</l>
      <stg>
-       <st Contlex="Pron-Pers">сындест</st>
+       <st Contlex="PRON-PERS_">сындест</st>
      </stg>
    </lg>
      <sources>
@@ -1898,7 +1898,7 @@
    <lg>
      <l pos="Pron" type="Dem">теде</l>
      <stg>
-       <st Contlex="Dem-Abe">теде</st>
+       <st Contlex="IS-PRON-DEM-SG-ABL-INDEF">теде</st>
      </stg>
    </lg>
      <sources>
@@ -1935,7 +1935,7 @@
    <lg>
      <l pos="Pron" type="Dem">текеде</l>
      <stg>
-       <st Contlex="Dem-Abe">текеде</st>
+       <st Contlex="IS-PRON-DEM-SG-ABL-INDEF">текеде</st>
      </stg>
    </lg>
      <sources>
@@ -1954,7 +1954,7 @@
    <lg>
      <l pos="Pron" type="Dem">текенде</l>
      <stg>
-       <st Contlex="Dem-Abe">текенде</st>
+       <st Contlex="IS-PRON-DEM-SG-ABL-INDEF">текенде</st>
      </stg>
    </lg>
      <sources>
@@ -1973,7 +1973,7 @@
    <lg>
      <l pos="Pron" type="Dem">тенде</l>
      <stg>
-       <st Contlex="Dem-Abe">тенде</st>
+       <st Contlex="IS-PRON-DEM-SG-ABL-INDEF">тенде</st>
      </stg>
    </lg>
      <sources>
@@ -2035,7 +2035,7 @@
    <lg>
      <l pos="Pron" type="Dem">теньстэ</l>
      <stg>
-       <st Contlex="Dem-Ela">теньстэ</st>
+       <st Contlex="IS-PRON-DEM-SG-ELA-INDEF">теньстэ</st>
      </stg>
    </lg>
      <sources>
@@ -2054,7 +2054,7 @@
    <lg>
      <l pos="Pron" type="Dem">теньсэ</l>
      <stg>
-       <st Contlex="Dem-Ine">теньсэ</st>
+       <st Contlex="IS-PRON-DEM-SG-INE-INDEF">теньсэ</st>
      </stg>
    </lg>
      <sources>
@@ -2127,7 +2127,7 @@
    <lg>
      <l pos="Pron">тондеть</l>
      <stg>
-       <st Contlex="Pron-Pers">тондеть</st>
+       <st Contlex="PRON-PERS_">тондеть</st>
      </stg>
    </lg>
      <sources>
@@ -2152,7 +2152,7 @@
    <lg>
      <l pos="Pron">тонеть</l>
      <stg>
-       <st Contlex="Pron-Pers">тонеть</st>
+       <st Contlex="PRON-PERS_">тонеть</st>
      </stg>
    </lg>
      <sources>
@@ -2177,7 +2177,7 @@
    <lg>
      <l pos="Pron">тонсь</l>
      <stg>
-       <st Contlex="Pron-Pers">тонсь</st>
+       <st Contlex="PRON-PERS_">тонсь</st>
      </stg>
    </lg>
      <sources>
@@ -2277,7 +2277,7 @@
    <lg>
      <l pos="Pron">тынкесь</l>
      <stg>
-       <st Contlex="Pron-Pers">тынкесь</st>
+       <st Contlex="PRON-PERS_">тынкесь</st>
      </stg>
    </lg>
      <sources>
@@ -2399,11 +2399,11 @@
      </xg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="Pron">эрьва кодат</l>
      <stg>
-       <st>эрьва кодат</st>
+       <st Contlex="PRON_">эрьва кодат</st>
      </stg>
    </lg>
      <sources>
@@ -2417,11 +2417,11 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="Pron">эрьва мезе</l>
      <stg>
-       <st>эрьва мезе</st>
+       <st Contlex="PRON_">эрьва мезе</st>
      </stg>
    </lg>
      <sources>
@@ -2440,7 +2440,7 @@
    <lg>
      <l pos="Pron">эсензэ</l>
      <stg>
-       <st Contlex="Pron-Pers">эсензэ</st>
+       <st Contlex="PRON-REFL_">эсензэ</st>
      </stg>
    </lg>
      <sources>
@@ -2472,7 +2472,7 @@
      <etymology> <etym>[æ-е-]</etym>
      </etymology>
      <stg>
-       <st Contlex="Pron-Pers">эсень</st>
+       <st Contlex="PRON-REFL_">эсень</st>
      </stg>
    </lg>
      <sources>
@@ -2501,7 +2501,7 @@
    <lg>
      <l pos="Pron">эсест</l>
      <stg>
-       <st Contlex="Pron-Pers">эсест</st>
+       <st Contlex="PRON-REFL_">эсест</st>
      </stg>
    </lg>
      <sources>
@@ -2526,7 +2526,7 @@
    <lg>
      <l pos="Pron">эсеть</l>
      <stg>
-       <st Contlex="Pron-Pers">эсеть</st>
+       <st Contlex="PRON-REFL_">эсеть</st>
      </stg>
    </lg>
      <sources>
@@ -2551,7 +2551,7 @@
    <lg>
      <l pos="Pron">эстеденек</l>
      <stg>
-       <st Contlex="Pron-Pers">эстеденек</st>
+       <st Contlex="PRON-REFL_">эстеденек</st>
      </stg>
    </lg>
      <sources>
@@ -2572,7 +2572,7 @@
    <lg>
      <l pos="Pron">эстедензэ</l>
      <stg>
-       <st Contlex="Pron-Pers">эстедензэ</st>
+       <st Contlex="PRON-REFL_">эстедензэ</st>
      </stg>
    </lg>
      <sources>
@@ -2593,7 +2593,7 @@
    <lg>
      <l pos="Pron">эстеденк</l>
      <stg>
-       <st Contlex="Pron-Pers">эстеденк</st>
+       <st Contlex="PRON-REFL_">эстеденк</st>
      </stg>
    </lg>
      <sources>
@@ -2614,7 +2614,7 @@
    <lg>
      <l pos="Pron">эстедень</l>
      <stg>
-       <st Contlex="Pron-Pers">эстедень</st>
+       <st Contlex="PRON-REFL_">эстедень</st>
      </stg>
    </lg>
      <sources>
@@ -2635,7 +2635,7 @@
    <lg>
      <l pos="Pron">эстедест</l>
      <stg>
-       <st Contlex="Pron-Pers">эстедест</st>
+       <st Contlex="PRON-REFL_">эстедест</st>
      </stg>
    </lg>
      <sources>
@@ -2656,7 +2656,7 @@
    <lg>
      <l pos="Pron">эстедеть</l>
      <stg>
-       <st Contlex="Pron-Pers">эстедеть</st>
+       <st Contlex="PRON-REFL_">эстедеть</st>
      </stg>
    </lg>
      <sources>
@@ -2677,7 +2677,7 @@
    <lg>
      <l pos="Pron">эстенек</l>
      <stg>
-       <st Contlex="Pron-Pers">эстенек</st>
+       <st Contlex="PRON-REFL_">эстенек</st>
      </stg>
    </lg>
      <sources>
@@ -2698,7 +2698,7 @@
    <lg>
      <l pos="Pron">эстензэ</l>
      <stg>
-       <st Contlex="Pron-Pers">эстензэ</st>
+       <st Contlex="PRON-REFL_">эстензэ</st>
      </stg>
    </lg>
      <sources>
@@ -2725,7 +2725,7 @@
    <lg>
      <l pos="Pron">эстенк</l>
      <stg>
-       <st Contlex="Pron-Pers">эстенк</st>
+       <st Contlex="PRON-REFL_">эстенк</st>
      </stg>
    </lg>
      <sources>
@@ -2748,7 +2748,7 @@
      <etymology> <etym>[æ-е-]</etym>
      </etymology>
      <stg>
-       <st Contlex="Pron-Pers">эстень</st>
+       <st Contlex="PRON-REFL_">эстень</st>
      </stg>
    </lg>
      <sources>
@@ -2773,7 +2773,7 @@
    <lg>
      <l pos="Pron">эстест</l>
      <stg>
-       <st Contlex="Pron-Pers">эстест</st>
+       <st Contlex="PRON-REFL_">эстест</st>
      </stg>
    </lg>
      <sources>
@@ -2794,7 +2794,7 @@
    <lg>
      <l pos="Pron">эстеть</l>
      <stg>
-       <st Contlex="Pron-Pers">эстеть</st>
+       <st Contlex="PRON-REFL_">эстеть</st>
      </stg>
    </lg>
      <sources>
@@ -2840,7 +2840,7 @@
    <lg>
      <l pos="Pron">эська</l>
      <stg>
-       <st Contlex="Pron-Pers">эська</st>
+       <st Contlex="PRON-REFL_">эська</st>
      </stg>
    </lg>
      <sources>
@@ -2865,7 +2865,7 @@
    <lg>
      <l pos="Pron">эськан</l>
      <stg>
-       <st Contlex="Pron-Pers">эськан</st>
+       <st Contlex="PRON-REFL_">эськан</st>
      </stg>
    </lg>
      <sources>
@@ -2886,7 +2886,7 @@
    <lg>
      <l pos="Pron">эськанзо</l>
      <stg>
-       <st Contlex="Pron-Pers">эськанзо</st>
+       <st Contlex="PRON-REFL_">эськанзо</st>
      </stg>
    </lg>
      <sources>
@@ -2913,7 +2913,7 @@
    <lg>
      <l pos="Pron">эськанк</l>
      <stg>
-       <st Contlex="Pron-Pers">эськанк</st>
+       <st Contlex="PRON-REFL_">эськанк</st>
      </stg>
    </lg>
      <sources>
@@ -2934,7 +2934,7 @@
    <lg>
      <l pos="Pron">эськанок</l>
      <stg>
-       <st Contlex="Pron-Pers">эськанок</st>
+       <st Contlex="PRON-REFL_">эськанок</st>
      </stg>
    </lg>
      <sources>
@@ -2959,7 +2959,7 @@
    <lg>
      <l pos="Pron">эськаст</l>
      <stg>
-       <st Contlex="Pron-Pers">эськаст</st>
+       <st Contlex="PRON-REFL_">эськаст</st>
      </stg>
    </lg>
      <sources>
@@ -2984,7 +2984,7 @@
    <lg>
      <l pos="Pron">эськат</l>
      <stg>
-       <st Contlex="Pron-Pers">эськат</st>
+       <st Contlex="PRON-REFL_">эськат</st>
      </stg>
    </lg>
      <sources>

@@ -54,7 +54,7 @@
      <etymology> <etym xml_lang="myv"> <constituent>а+ламо</constituent> </etym>
      </etymology>
      <stg>
-       <st Contlex="QNT_LAMO">аламо</st>
+       <st Contlex="DET_LAMO">аламо</st>
      </stg>
    </lg>
      <sources>
@@ -266,9 +266,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">ведьгеменце</l>
+     <l pos="Num" type="Ord">ведьгеменце</l>
      <stg>
-       <st Contlex="IS_NUMORD_KUDO">ведьгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">ведьгеменце</st>
      </stg>
    </lg>
      <sources>
@@ -406,7 +406,7 @@
    <lg>
      <l pos="Qnt">вейксэньгеменьшка</l>
      <stg>
-       <st Contlex="NUM">вейксэньгеменьшка</st>
+       <st Contlex="NUM_KUDO">вейксэньгеменьшка</st>
      </stg>
    </lg>
      <sources>
@@ -422,9 +422,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">вейксэце</l>
+     <l pos="Num" type="Ord">вейксэце</l>
      <stg>
-       <st Contlex="ORD">вейксэце</st>
+       <st Contlex="IS-NUMORD_KUDO">вейксэце</st>
      </stg>
    </lg>
      <sources>
@@ -623,9 +623,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">ветеце</l>
+     <l pos="Num" type="Ord">ветеце</l>
      <stg>
-       <st Contlex="ORD">ветеце</st>
+       <st Contlex="IS-NUMORD_KUDO">ветеце</st>
      </stg>
    </lg>
      <sources>
@@ -717,7 +717,7 @@
    <lg>
      <l pos="Qnt">зняродо</l>
      <stg>
-       <st>зняродо</st>
+       <st Contlex="ADV_">зняродо</st>
      </stg>
    </lg>
      <sources>
@@ -758,7 +758,7 @@
    <lg>
      <l pos="Qnt">зняроненек</l>
      <stg>
-       <st>зняроненек</st>
+       <st Contlex="ADV_">зняроненек</st>
      </stg>
    </lg>
      <sources>
@@ -777,7 +777,7 @@
    <lg>
      <l pos="Qnt">зняроненк</l>
      <stg>
-       <st>зняроненк</st>
+       <st Contlex="ADV_">зняроненк</st>
      </stg>
    </lg>
      <sources>
@@ -792,7 +792,7 @@
    <lg>
      <l pos="Qnt">зняронень</l>
      <stg>
-       <st>зняронень</st>
+       <st Contlex="ADV_">зняронень</st>
      </stg>
    </lg>
      <sources>
@@ -811,7 +811,7 @@
    <lg>
      <l pos="Qnt">зняронест</l>
      <stg>
-       <st>зняронест</st>
+       <st Contlex="ADV_">зняронест</st>
      </stg>
    </lg>
      <sources>
@@ -826,7 +826,7 @@
    <lg>
      <l pos="Qnt">знярос</l>
      <stg>
-       <st>знярос</st>
+       <st Contlex="ADV_">знярос</st>
      </stg>
    </lg>
      <sources>
@@ -843,9 +843,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">зняроце</l>
+     <l pos="Num" type="Ord">зняроце</l>
      <stg>
-       <st Contlex="ORD">зняроце</st>
+       <st Contlex="IS-NUMORD_KUDO">зняроце</st>
      </stg>
    </lg>
      <sources>
@@ -901,7 +901,7 @@
    <lg>
      <l pos="Qnt">зяро</l>
      <stg>
-       <st Contlex="QNT_ЗЯРО">зяро</st>
+       <st Contlex="DET_LAMO">зяро</st>
      </stg>
    </lg>
      <sources>
@@ -980,9 +980,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">кавксоньгеменце</l>
+     <l pos="Num" type="Ord">кавксоньгеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кавксоньгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">кавксоньгеменце</st>
      </stg>
    </lg>
      <sources>
@@ -1037,9 +1037,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">кавксотькс</l>
+     <l pos="Num">кавксотькс</l>
      <stg>
-       <st Contlex="osh-N-WORK">кавксотькс</st>
+       <st Contlex="IS-NUMORD_OSH">кавксотькс</st>
      </stg>
    </lg>
      <sources>
@@ -1053,9 +1053,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">кавксоце</l>
+     <l pos="Num" type="Ord">кавксоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кавксоце</st>
+       <st Contlex="IS-NUMORD_KUDO">кавксоце</st>
      </stg>
    </lg>
      <sources>
@@ -1306,7 +1306,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">кавтоце</l>
+     <l pos="Num" type="Ord">кавтоце</l>
      <stg>
        <st Contlex="ORD_">кавтоце</st>
      </stg>
@@ -1471,9 +1471,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">кеменце</l>
+     <l pos="Num" type="Ord">кеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">кеменце</st>
      </stg>
    </lg>
      <sources>
@@ -1533,9 +1533,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">кемзисемгеце</l>
+     <l pos="Num" type="Ord">кемзисемгеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кемзисемгеце</st>
+       <st Contlex="IS-NUMORD_KUDO">кемзисемгеце</st>
      </stg>
    </lg>
      <sources>
@@ -1599,9 +1599,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">кодгеменце</l>
+     <l pos="Num" type="Ord">кодгеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кодгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">кодгеменце</st>
      </stg>
    </lg>
      <sources>
@@ -1773,9 +1773,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">колмоце</l>
+     <l pos="Num" type="Ord">колмоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">колмоце</st>
+       <st Contlex="IS-NUMORD_KUDO">колмоце</st>
      </stg>
    </lg>
      <sources>
@@ -1830,9 +1830,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">колоньгеменце</l>
+     <l pos="Num" type="Ord">колоньгеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">колоньгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">колоньгеменце</st>
        <st Contlex="NUM_KUDO">колмонькеменце</st>
      </stg>
    </lg>
@@ -1865,9 +1865,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комсетькс</l>
+     <l pos="Num">комсетькс</l>
      <stg>
-       <st Contlex="osh-N-WORK">комсетькс</st>
+       <st Contlex="IS-NUMORD_OSH">комсетькс</st>
      </stg>
    </lg>
      <sources>
@@ -1881,9 +1881,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комсеце</l>
+     <l pos="Num" type="Ord">комсеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсеце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсеце</st>
      </stg>
    </lg>
      <sources>
@@ -1933,9 +1933,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комсьвейкееце</l>
+     <l pos="Num" type="Ord">комсьвейкееце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьвейкееце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьвейкееце</st>
      </stg>
    </lg>
      <sources>
@@ -1969,9 +1969,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комсьвейксэеце</l>
+     <l pos="Num" type="Ord">комсьвейксэеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьвейксэеце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьвейксэеце</st>
      </stg>
    </lg>
      <sources>
@@ -2002,9 +2002,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комсьветееце</l>
+     <l pos="Num" type="Ord">комсьветееце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьветееце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьветееце</st>
      </stg>
    </lg>
      <sources>
@@ -2054,9 +2054,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комськавксовоце</l>
+     <l pos="Num" type="Ord">комськавксовоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комськавксовоце</st>
+       <st Contlex="IS-NUMORD_KUDO">комськавксовоце</st>
      </stg>
    </lg>
      <sources>
@@ -2087,9 +2087,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комськавтовоце</l>
+     <l pos="Num" type="Ord">комськавтовоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комськавтовоце</st>
+       <st Contlex="IS-NUMORD_KUDO">комськавтовоце</st>
      </stg>
    </lg>
      <sources>
@@ -2120,9 +2120,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комськолмовоце</l>
+     <l pos="Num" type="Ord">комськолмовоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комськолмовоце</st>
+       <st Contlex="IS-NUMORD_KUDO">комськолмовоце</st>
      </stg>
    </lg>
      <sources>
@@ -2150,9 +2150,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комськотовоце</l>
+     <l pos="Num" type="Ord">комськотовоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комськотовоце</st>
+       <st Contlex="IS-NUMORD_KUDO">комськотовоце</st>
      </stg>
    </lg>
      <sources>
@@ -2199,9 +2199,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комсьнилееце</l>
+     <l pos="Num" type="Ord">комсьнилееце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьнилееце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьнилееце</st>
      </stg>
    </lg>
      <sources>
@@ -2234,9 +2234,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">комсьсисемгеце</l>
+     <l pos="Num" type="Ord">комсьсисемгеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьсисемгеце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьсисемгеце</st>
      </stg>
    </lg>
      <sources>
@@ -2287,9 +2287,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">котоце</l>
+     <l pos="Num" type="Ord">котоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">котоце</st>
+       <st Contlex="IS-NUMORD_KUDO">котоце</st>
      </stg>
    </lg>
      <sources>
@@ -2331,7 +2331,7 @@
    <lg>
      <l pos="Qnt">ламо</l>
      <stg>
-       <st Contlex="QNT_LAMO">ламо</st>
+       <st Contlex="DET_LAMO">ламо</st>
      </stg>
    </lg>
      <sources>
@@ -2491,9 +2491,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">ниленьгеменце</l>
+     <l pos="Num" type="Ord">ниленьгеменце</l>
      <stg>
-       <st Contlex="ORD">ниленьгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">ниленьгеменце</st>
      </stg>
    </lg>
      <sources>
@@ -2548,9 +2548,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">нилеце</l>
+     <l pos="Num" type="Ord">нилеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">нилеце</st>
+       <st Contlex="IS-NUMORD_KUDO">нилеце</st>
      </stg>
    </lg>
      <sources>
@@ -2775,9 +2775,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">сизьгеменце</l>
+     <l pos="Num" type="Ord">сизьгеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">сизьгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">сизьгеменце</st>
      </stg>
    </lg>
      <sources>
@@ -2826,9 +2826,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">сисемеце</l>
+     <l pos="Num" type="Ord">сисемеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">сисемеце</st>
+       <st Contlex="IS-NUMORD_KUDO">сисемеце</st>
      </stg>
    </lg>
      <sources>
@@ -2902,9 +2902,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">сядоце</l>
+     <l pos="Num" type="Ord">сядоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">сядоце</st>
+       <st Contlex="IS-NUMORD_KUDO">сядоце</st>
      </stg>
    </lg>
      <sources>
@@ -2917,7 +2917,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Qnt">тёжаце</l>
+     <l pos="Num" type="Ord">тёжаце</l>
      <stg>
        <st Contlex="ORD_KUDO">тёжаце</st>
      </stg>

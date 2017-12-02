@@ -9500,7 +9500,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="BAHUV_TINGE">вардонь сельм</st>
+       <st Contlex="BAHUV_PANGO">вардонь сельм</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -21586,25 +21586,7 @@
    <lg>
      <l pos="A">капитанонь</l>
      <stg>
-       <st Contlex="A_">капитанонь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">kapteenin-</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="A">капитанонь </l>
-     <stg>
-       <st Contlex="A_">капитанонь</st>
+       <st Contlex="A-IS-GEN">капитанонь</st>
      </stg>
    </lg>
      <sources>
@@ -33542,7 +33524,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st pos="A-IS-GEN">мода алдонь</st>
+       <st Contlex="A-IS-GEN">мода алдонь</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -74034,7 +74016,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st>ёндол кель</st>
+       <st Contlex="BAHUV_KAL">ёндол кель</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
