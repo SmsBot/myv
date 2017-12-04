@@ -297,7 +297,7 @@
        <t pos="Num">ninth</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Num" type="Ord">yhdeksäs</t>
+       <t pos="Qnt">yhdeksäs</t>
      </tg>
      <defNative/>
    </mg>
@@ -554,7 +554,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Num" type="Ord">monesko</t>
+       <t pos="Qnt">monesko</t>
      </tg>
      <defNative/>
    </mg>
@@ -589,7 +589,7 @@
    <lg>
      <l pos="Num" type="Ord">кавксоньгеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кавксоньгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">кавксоньгеменце</st>
      </stg>
    </lg>
      <sources>
@@ -644,7 +644,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Num" type="Ord">кавксотькс</l>
+     <l pos="Num">кавксотькс</l>
      <stg>
        <st Contlex="IS-NUMORD_OSH">кавксотькс</st>
      </stg>
@@ -662,7 +662,7 @@
    <lg>
      <l pos="Num" type="Ord">кавксоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кавксоце</st>
+       <st Contlex="IS-NUMORD_KUDO">кавксоце</st>
      </stg>
    </lg>
      <sources>
@@ -758,6 +758,24 @@
        <x>Кавто ломанть. Кавто книгат. Эйкакшонтень топодсть кавто иеть. Авась стась кавто панарт.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">кавто кементь</l>
+     <stg>
+       <st Contlex="NUM_">кавто кементь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>двадцать</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -1063,7 +1081,7 @@
    <lg>
      <l pos="Num" type="Ord">кеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">кеменце</st>
      </stg>
    </lg>
      <sources>
@@ -1157,7 +1175,7 @@
    <lg>
      <l pos="Num" type="Ord">кемзисемгеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кемзисемгеце</st>
+       <st Contlex="IS-NUMORD_KUDO">кемзисемгеце</st>
      </stg>
    </lg>
      <sources>
@@ -1204,7 +1222,7 @@
    <lg>
      <l pos="Num" type="Ord">кодгеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">кодгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">кодгеменце</st>
      </stg>
    </lg>
      <sources>
@@ -1429,7 +1447,7 @@
    <lg>
      <l pos="Num" type="Ord">колмоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">колмоце</st>
+       <st Contlex="IS-NUMORD_KUDO">колмоце</st>
      </stg>
    </lg>
      <sources>
@@ -1456,7 +1474,7 @@
    <lg>
      <l pos="Num" type="Ord">колоньгеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">колоньгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">колоньгеменце</st>
        <st Contlex="NUM_KUDO">колмонькеменце</st>
      </stg>
    </lg>
@@ -1474,7 +1492,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Num" type="Ord">комсетькс</l>
+     <l pos="Num">комсетькс</l>
      <stg>
        <st Contlex="IS-NUMORD_OSH">комсетькс</st>
      </stg>
@@ -1492,7 +1510,7 @@
    <lg>
      <l pos="Num" type="Ord">комсеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсеце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсеце</st>
      </stg>
    </lg>
      <sources>
@@ -1569,7 +1587,7 @@
    <lg>
      <l pos="Num" type="Ord">комсьвейкееце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьвейкееце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьвейкееце</st>
      </stg>
    </lg>
      <sources>
@@ -1605,7 +1623,7 @@
    <lg>
      <l pos="Num" type="Ord">комсьвейксэеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьвейксэеце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьвейксэеце</st>
      </stg>
    </lg>
      <sources>
@@ -1638,7 +1656,7 @@
    <lg>
      <l pos="Num" type="Ord">комсьветееце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьветееце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьветееце</st>
      </stg>
    </lg>
      <sources>
@@ -1690,7 +1708,7 @@
    <lg>
      <l pos="Num" type="Ord">комськавксовоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комськавксовоце</st>
+       <st Contlex="IS-NUMORD_KUDO">комськавксовоце</st>
      </stg>
    </lg>
      <sources>
@@ -1723,7 +1741,7 @@
    <lg>
      <l pos="Num" type="Ord">комськавтовоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комськавтовоце</st>
+       <st Contlex="IS-NUMORD_KUDO">комськавтовоце</st>
      </stg>
    </lg>
      <sources>
@@ -1756,7 +1774,7 @@
    <lg>
      <l pos="Num" type="Ord">комськолмовоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комськолмовоце</st>
+       <st Contlex="IS-NUMORD_KUDO">комськолмовоце</st>
      </stg>
    </lg>
      <sources>
@@ -1786,7 +1804,7 @@
    <lg>
      <l pos="Num" type="Ord">комськотовоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комськотовоце</st>
+       <st Contlex="IS-NUMORD_KUDO">комськотовоце</st>
      </stg>
    </lg>
      <sources>
@@ -1835,7 +1853,7 @@
    <lg>
      <l pos="Num" type="Ord">комсьнилееце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьнилееце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьнилееце</st>
      </stg>
    </lg>
      <sources>
@@ -1870,7 +1888,7 @@
    <lg>
      <l pos="Num" type="Ord">комсьсисемгеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">комсьсисемгеце</st>
+       <st Contlex="IS-NUMORD_KUDO">комсьсисемгеце</st>
      </stg>
    </lg>
      <sources>
@@ -1953,7 +1971,7 @@
    <lg>
      <l pos="Num" type="Ord">котоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">котоце</st>
+       <st Contlex="IS-NUMORD_KUDO">котоце</st>
      </stg>
    </lg>
      <sources>
@@ -2087,7 +2105,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Num" type="Ord">neljäskymmenes</t>
+       <t pos="Qnt">neljäskymmenes</t>
      </tg>
      <defNative>Мельга молиця ёвтамо.</defNative>
      <xg>
@@ -2135,7 +2153,7 @@
    <lg>
      <l pos="Num" type="Ord">нилеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">нилеце</st>
+       <st Contlex="IS-NUMORD_KUDO">нилеце</st>
      </stg>
    </lg>
      <sources>
@@ -2200,7 +2218,7 @@
    <lg>
      <l pos="Num" type="Ord">сизьгеменце</l>
      <stg>
-       <st Contlex="NUM_KUDO">сизьгеменце</st>
+       <st Contlex="IS-NUMORD_KUDO">сизьгеменце</st>
      </stg>
    </lg>
      <sources>
@@ -2230,6 +2248,330 @@
        <x>Минек велентень кадовсть сизьгемень кудот. Минек покштянтень топодсть сизьгемень иеть.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень васенце</l>
+     <stg>
+       <st Contlex="IS-NUMORD_KUDO">сизьгемень васенце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят первый</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень вейке</l>
+     <stg>
+       <st Contlex="NUM_KUDO">сизьгемень вейке</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят один</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень вейксэ</l>
+     <stg>
+       <st Contlex="NUM_KUDO">сизьгемень вейксэ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят девять</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень вейксэце</l>
+     <stg>
+       <st Contlex="IS-NUMORD_KUDO">сизьгемень вейксэце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят девятый</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень вете</l>
+     <stg>
+       <st Contlex="NUM_KUDO">сизьгемень вете</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят пять</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень ветеце</l>
+     <stg>
+       <st Contlex="IS-NUMORD_KUDO">сизьгемень ветеце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят пятый</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень кавксо</l>
+     <stg>
+       <st Contlex="NUM_KUDO">сизьгемень кавксо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят восемь</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень кавксоце</l>
+     <stg>
+       <st Contlex="IS-NUMORD_KUDO">сизьгемень кавксоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят восьмой</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень кавто</l>
+     <stg>
+       <st Contlex="NUM_KUDO">сизьгемень кавто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят два</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень колмо</l>
+     <stg>
+       <st Contlex="NUM_KUDO">сизьгемень колмо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят три</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень колмоце</l>
+     <stg>
+       <st Contlex="IS-NUMORD_KUDO">сизьгемень колмоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят третий</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень кото</l>
+     <stg>
+       <st Contlex="NUM_KUDO">сизьгемень кото</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят шесть</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень котоце</l>
+     <stg>
+       <st Contlex="IS-NUMORD_KUDO">сизьгемень котоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят шестой</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень ниле</l>
+     <stg>
+       <st Contlex="NUM_KUDO">сизьгемень ниле</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят четыре</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень нилеце</l>
+     <stg>
+       <st Contlex="IS-NUMORD_KUDO">сизьгемень нилеце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят четвертый</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень омбоце</l>
+     <stg>
+       <st Contlex="IS-NUMORD_KUDO">сизьгемень омбоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят второй</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень сисем</l>
+     <stg>
+       <st Contlex="NUM_KAL">сизьгемень сисем</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят семь</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">сизьгемень сисемеце</l>
+     <stg>
+       <st Contlex="IS-NUMORD_KUDO">сизьгемень сисемеце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семьдесят седьмой</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2298,7 +2640,7 @@
    <lg>
      <l pos="Num" type="Ord">сисемеце</l>
      <stg>
-       <st Contlex="NUM_KUDO">сисемеце</st>
+       <st Contlex="IS-NUMORD_KUDO">сисемеце</st>
      </stg>
    </lg>
      <sources>
@@ -2458,7 +2800,7 @@
    <lg>
      <l pos="Num" type="Ord">сядоце</l>
      <stg>
-       <st Contlex="NUM_KUDO">сядоце</st>
+       <st Contlex="IS-NUMORD_KUDO">сядоце</st>
      </stg>
    </lg>
      <sources>
@@ -2507,10 +2849,10 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Num" type="Ord">tuhannes</t>
+       <t pos="Qnt">tuhannes</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="Num" type="Ord">тысячный</t>
+       <t pos="Qnt">тысячный</t>
      </tg>
      <m>
      </m>
@@ -2528,6 +2870,24 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">чуродо весть</l>
+     <stg>
+       <st Contlex="ITER_">чуродо весть</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>изредка, очень редко</t>
+     </tg>
      <defNative/>
    </mg>
 </e>

@@ -287,6 +287,24 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="Pron" type="Indef">кой-мезть</l>
+     <stg>
+       <st Contlex="PRON-INDEF_">кой-мезть</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>кое-что</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="Pron">кона</l>
      <stg>
        <st Contlex="PRON-IS-REL-SEL">кона</st>
@@ -413,6 +431,24 @@
        <x>Мукоресь лазномс эряви аволь узерьсэ, мезьсэяк лиясо. Исяк оршнесь сэнь костюм, течи сась лиясо.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Pron">лият-кить</l>
+     <stg>
+       <st Contlex="PRON_">лият-кить</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>другие</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -569,6 +605,42 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="Pron">мезе а мезе</l>
+     <stg>
+       <st Contlex="PRON_">мезе а мезе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>что нибудь</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Pron">мезе бути</l>
+     <stg>
+       <st Contlex="PRON_">мезе бути</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>что нибудь</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="Pron">мезе-лия</l>
      <stg>
        <st Contlex="PRON_">мезе-лия</st>
@@ -680,7 +752,7 @@
      <defNative>Мезень эйсэ.</defNative>
    </mg>
 </e>
-<e exclude="fst" id="None" meta="">
+<e id="None" meta="">
    <lg>
      <l pos="Pron">мезеяк</l>
      <stg>
@@ -1464,6 +1536,24 @@
        <x>Сон а моли минек марто. Сон яки сяворькшнезь, улема, иредезь.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Pron">сон сонсь</l>
+     <stg>
+       <st Contlex="PRON_">сон сонсь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>само собой</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2399,7 +2489,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst" id="None" meta="">
+<e id="None" meta="">
    <lg>
      <l pos="Pron">эрьва кодат</l>
      <stg>
@@ -2417,7 +2507,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst" id="None" meta="">
+<e id="None" meta="">
    <lg>
      <l pos="Pron">эрьва мезе</l>
      <stg>

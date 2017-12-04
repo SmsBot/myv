@@ -9660,6 +9660,22 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">васенцень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">васенцень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">васень</l>
      <stg>
        <st Contlex="A_KAL">васень</st>
@@ -10461,6 +10477,22 @@
      <semantics>
      </semantics>
      <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">вепекень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">вепекень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
    </mg>
 </e>
 <e id="None" meta="">
@@ -18943,6 +18975,28 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">икельце</l>
+     <stg>
+       <st Contlex="A_VELE">икельце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">etumainen</t>
+       <t pos="A">edellinen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="A">передний</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">иконописной</l>
      <stg>
        <st Contlex="A_RU-OJ">иконописн</st>
@@ -20441,6 +20495,24 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">кавто чинь</l>
+     <stg>
+       <st Contlex="A-IS-GEN">кавто чинь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>двухдневный</t>
+     </tg>
      <defNative/>
    </mg>
 </e>
@@ -23921,6 +23993,24 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">кискань курю</l>
+     <stg>
+       <st Contlex="A_KUDO">кискань курю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>злой, сварливый</t>
+     </tg>
      <defNative/>
    </mg>
 </e>
@@ -31491,6 +31581,22 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">манынце</l>
+     <stg>
+       <st Contlex="A_VELE">манынце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">манёвренной</l>
      <stg>
        <st Contlex="A_RU-OJ">манёвренн</st>
@@ -32046,6 +32152,29 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">меельце</l>
+     <stg>
+       <st Contlex="A_VELE">меельце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">viime</t>
+       <t pos="N">viimeinen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">последний</t>
+       <t pos="N">заключительный</t>
+     </tg>
+     <defNative>Мельга молиця. Песэ аштиця. Удалов кадовиця.</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">междугородной</l>
      <stg>
        <st Contlex="A_RU-OJ">междугородн</st>
@@ -32517,6 +32646,24 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">менель алдонь</l>
+     <stg>
+       <st Contlex="A-IS-GEN">менель алдонь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>на земный</t>
+     </tg>
      <defNative/>
    </mg>
 </e>
@@ -33518,29 +33665,21 @@
    </mg>
 </e>
 <e id="None" meta="">
-   <map/>
    <lg>
      <l pos="A">мода алдонь</l>
-     <etymology>
-     </etymology>
      <stg>
        <st Contlex="A-IS-GEN">мода алдонь</st>
-     </stg> <compg> </compg>
+     </stg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="eng">
-       <t pos="A">subterranean</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">maanalainen</t>
-     </tg>
      <tg xml:lang="rus">
-       <t pos="A">подземный</t>
+       <t>подземный</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -37477,6 +37616,24 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">нулань-валань</l>
+     <stg>
+       <st Contlex="A-IS-GEN">нулань-валань</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>тряпичный</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">нулгов</l>
      <stg>
        <st Contlex="A_KAL">нулгов</st>
@@ -39096,6 +39253,24 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">олазь</l>
+     <stg>
+       <st Contlex="A_OSH">олазь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>полинявший, поблекший</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">оланя</l>
      <stg>
        <st Contlex="A_KUDO">оланя</st>
@@ -40657,6 +40832,22 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">ошонце</l>
+     <stg>
+       <st Contlex="A_VELE">ошонце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">падтомо</l>
      <stg>
        <st Contlex="A_KUDO">падтомо</st>
@@ -41325,6 +41516,45 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">пародояк паро</l>
+     <stg>
+       <st Contlex="A_PANGO">пародояк пар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>чудесный</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">парсеень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">парсеень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">silkkinen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">шелковый</t>
+     </tg>
+     <defNative>Мезеяк теезь эли стазь парсеень коцтсто. Парсей коцтонь панар. Парсей паця.</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">партейной</l>
      <stg>
        <st Contlex="A_RU-OJ">партейн</st>
@@ -41948,6 +42178,24 @@
        <x>Менелесь пелев, улема, туи пиземе. Чилисемась пелев.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">пелеве ёнксонь</l>
+     <stg>
+       <st Contlex="A-IS-GEN">пелеве ёнксонь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>северный</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -43381,7 +43629,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="A">овсяный</t>
+       <t pos="N">овсяный</t>
      </tg>
      <defNative>Мезтькак пидезь пинеме ямкссто эли товсто.</defNative>
      <xg>
@@ -43587,6 +43835,28 @@
      <defNative>Лиякс «питнев». Покш питне. Миемстэ мезеньгак кисэ ламо вешема. Рамамсто мезеньгак кисэ ламо пандома.</defNative>
      <xg>
        <x>Те иестэ сюрось вельть питней. Кудось а рамави, вельть питней.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">пичень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">пичень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="N">сосновый</t>
+     </tg>
+     <defNative>Мезеяк теезь пиче чувтосто.</defNative>
+     <xg>
+       <x>Пичень кудо. Пичень лазт. Пичень пенгть. Пичень мукорь.</x>
        <xt/>
      </xg>
    </mg>
@@ -44993,6 +45263,22 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">поласьпень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">поласьпень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">полатной</l>
      <stg>
        <st Contlex="A_RU-OJ">полатн</st>
@@ -45632,6 +45918,31 @@
      <semantics>
      </semantics>
      <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">понань</l>
+     <stg>
+       <st Contlex="A-IS-GEN">понань</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">villainen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">шерстяной</t>
+     </tg>
+     <defNative>Мезтькак теезь понасто ─ штердезь, пельдезь, поназь, кодазь.</defNative>
+     <xg>
+       <x>Понань суре. Понань каркс. Понань варьгат. Понань коцт (сумань).</x>
+       <xt/>
+     </xg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -53253,6 +53564,32 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">седикелень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">седикелень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">vanha</t>
+       <t pos="N">muinainen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">странный</t>
+     </tg>
+     <defNative>Ютазь шкань. Неень шкадо икелень.</defNative>
+     <xg>
+       <x>Седикелень ломантне седе виевельть. Седикелень эрямось кортыть, вельть а шождынель.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">седой</l>
      <stg>
        <st Contlex="A_RU-OJ">сед</st>
@@ -53303,6 +53640,22 @@
      <semantics>
      </semantics>
      <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">секень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">секень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
    </mg>
 </e>
 <e id="None" meta="">
@@ -54209,23 +54562,57 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="A">сисем иесэ</l>
+     <l pos="A">сисем иень</l>
      <stg>
-       <st Contlex="A_KUDO">сисем иесэ</st>
+       <st Contlex="A-IS-GEN">сисем иень</st>
      </stg>
    </lg>
      <sources>
      </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семилетний</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">сисем иесэ</l>
+     <stg>
+       <st Contlex="A-IS-INE">сисем иесэ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семилетний</t>
+     </tg>
+     <defNative/>
+   </mg>
 </e>
 <e id="None" meta="">
    <lg>
      <l pos="A">сисем прясо</l>
      <stg>
-       <st Contlex="A_KUDO">сисем прясо</st>
+       <st Contlex="A-IS-INE">сисем прясо</st>
      </stg>
    </lg>
      <sources>
      </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семиглавый</t>
+     </tg>
+     <defNative/>
+   </mg>
 </e>
 <e id="None" meta="">
    <lg>
@@ -54321,6 +54708,31 @@
      <semantics>
      </semantics>
      <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">сиянь</l>
+     <stg>
+       <st Contlex="A-IS-GEN">сиянь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">hopeinen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">серебряный. Седой</t>
+     </tg>
+     <defNative>Сиясто теевкс.</defNative>
+     <xg>
+       <x>Сиянь пенч. Сиянь суркс. Сиянь част. Сиянь рисьме.</x>
+       <xt/>
+     </xg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -58091,6 +58503,22 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">сымень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">сымень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">сыра</l>
      <stg>
        <st Contlex="A_KUDO">сыра</st>
@@ -60019,6 +60447,24 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">тарькс якшамо</l>
+     <stg>
+       <st Contlex="A_KUDO">тарькс якшамо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>морозина</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">тарьксэв</l>
      <stg>
        <st Contlex="A_KAL">тарьксэв</st>
@@ -60219,6 +60665,22 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">теваразень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">теваразень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">тевев</l>
      <stg>
        <st Contlex="A_KAL">тевев</st>
@@ -60393,6 +60855,22 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">тейтерьсымень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">тейтерьсымень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">текень</l>
      <stg>
        <st Contlex="A-IS-GEN">текень</st>
@@ -60402,12 +60880,9 @@
      </sources>
    <mg relId="0">
      <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
      </semantics>
-     <defNative>Ансяк сень. Яла тень.</defNative>
-     <xg>
-       <x>Содат ансяк текень: лавгамс кельсэнть. Пиштян текень эйстэ. Текень содан ─ мелявтан.</x>
-       <xt/>
-     </xg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -63813,6 +64288,32 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">удалце</l>
+     <stg>
+       <st Contlex="A_VELE">удалце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">taka-</t>
+       <t pos="N">takainen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">задний</t>
+     </tg>
+     <defNative>Удало аштиця. Меельце. Удало молиця.</defNative>
+     <xg>
+       <x>Удалце кудо. Монь ялгась весемеде удалце.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">удальной</l>
      <stg>
        <st Contlex="A_RU-OJ">удальн</st>
@@ -64717,6 +65218,22 @@
      <semantics>
      </semantics>
      <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">урень</l>
+     <stg>
+       <st Contlex="A-IS-GEN">урень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="INANIMATE"/>
+       <sem class="COUNT"/>
+     </semantics>
    </mg>
 </e>
 <e id="None" meta="">
@@ -67840,6 +68357,43 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="A">цят пси</l>
+     <stg>
+       <st Contlex="A_KUDO">цят пси</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>жара</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">цят якшамо</l>
+     <stg>
+       <st Contlex="A_KUDO">цят якшамо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>мороз трескучий</t>
+       <t>трескучий мороз</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="A">цёков</l>
      <stg>
        <st Contlex="A_KAL">цёков</st>
@@ -69578,6 +70132,24 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">чоповт мери</l>
+     <stg>
+       <st Contlex="A_KUDO">чоповт мери</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>тусклый</t>
+     </tg>
      <defNative/>
    </mg>
 </e>
@@ -74010,14 +74582,11 @@
    </mg>
 </e>
 <e id="None" meta="">
-   <map/>
    <lg>
      <l pos="A">ёндол кель</l>
-     <etymology>
-     </etymology>
      <stg>
        <st Contlex="BAHUV_KAL">ёндол кель</st>
-     </stg> <compg> </compg>
+     </stg>
    </lg>
      <sources>
      </sources>
@@ -74025,9 +74594,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="undefined">остроязычный</t>
+       <t>остроязычный</t>
      </tg>
-     <defNative>null</defNative>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">

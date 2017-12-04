@@ -344,24 +344,30 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Interj">арась</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="INTERJ-NEG">арась</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Interj">no</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Interj">ei</t>
      </tg>
      <tg xml:lang="fra">
        <t pos="Interj">non</t>
      </tg>
-     <defNative/>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2150,6 +2156,24 @@
      </semantics>
      <tg xml:lang="rus">
        <t pos="Interj">сыночек мой</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Interj">чансть улезэ</l>
+     <stg>
+       <st Contlex="INTERJ_">чансть улезэ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>аминь</t>
      </tg>
      <defNative/>
    </mg>

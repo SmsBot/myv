@@ -385,6 +385,44 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="Det">пире</l>
+     <stg>
+       <st Contlex="DEM_ALCE">пире#ёнце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+     <xg>
+       <x>Мольсь пире ёнце латонть алов ды…</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">пире#ёнце</l>
+     <stg>
+       <st Contlex="DEM_ALCE">пире#ёнце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+     <xg>
+       <x>Мольсь пире ёнце латонть алов ды…</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="Det">пиреёнце</l>
      <stg>
        <st Contlex="DEM_ALCE">пире#ёнце</st>
