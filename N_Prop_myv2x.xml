@@ -3971,7 +3971,7 @@
    <lg>
      <l pos="N" type="Prop">Евангелия</l>
      <etymology>
-       <cognate pos="N" xml_lang="gre"/>
+       <cognate pos="N" xml:lang="gre"/>
      </etymology>
      <stg>
        <st Contlex="N_KUDO">Евангелия</st>
@@ -15778,7 +15778,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">июль</l>
-     <etymology> <etym xml_lang="lat"/>
+     <etymology> <etym xml:lang="lat"/>
      </etymology>
      <stg>
        <st Contlex="PROP_KAL">июль</st>
@@ -15851,6 +15851,27 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="N">кургео еуекомо</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st>кургео еуекомо</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="xyz">
+       <t pos="undefined">x</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">л</l>
      <stg>
@@ -15863,6 +15884,27 @@
      <semantics>
      </semantics>
      <defNative>Алфавитэнь кемголмовоце тешкске, вейксэеце а моравикс гайть. Пеень-келень гайниця а моравикс гайть, ёвтави чевтестэ ды калгодосто, коштось лиси келень кавто пельга.</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="N">л у д я м с</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st>л у д я м с</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="xyz">
+       <t pos="undefined">x</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">

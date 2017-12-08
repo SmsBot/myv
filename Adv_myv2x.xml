@@ -487,6 +487,26 @@
      <defNative>null</defNative>
    </mg>
 </e>
+<e>
+   <map/>
+   <lg>
+     <l pos="Adv">авцорк</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">авцорк</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adv">неуклюже</t>
+     </tg>
+   </mg>
+</e>
 <e id="None" meta="">
    <map/>
    <lg>
@@ -652,7 +672,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">аламо</l>
-     <etymology> <etym xml_lang="myv"> <constituent>а+ламо</constituent> </etym>
+     <etymology> <etym xml:lang="myv"> <constituent>а+ламо</constituent> </etym>
      </etymology>
      <stg>
        <st Contlex="DET_LAMO">аламо</st>
@@ -735,30 +755,6 @@
      <semantics>
      </semantics>
      <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
-   <map/>
-   <lg>
-     <l pos="Adv">аламонь тарка</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st>аламонь тарка</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="eng">
-       <t pos="Adv">not too far away</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="Adv">не совсем далеко</t>
-     </tg>
-     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -938,7 +934,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">алкукс</l>
-     <etymology> <etym xml_lang="mdf">афкукс</etym>
+     <etymology> <etym xml:lang="mdf">афкукс</etym>
      </etymology>
      <stg>
        <st Contlex="ADV_">алкукс</st>
@@ -1327,7 +1323,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">башка</l>
-     <etymology> <etym xml_lang="tat">башкалия</etym>
+     <etymology> <etym xml:lang="tat">башкалия</etym>
      </etymology>
      <stg>
        <st Contlex="ADV_">башка</st>
@@ -2470,6 +2466,27 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">велязь-чаразь</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">велязь-чаразь</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adv">кувырком</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="Adv">венеле</l>
      <stg>
@@ -2672,6 +2689,42 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">верьде верьс</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="N_OSH">верьде верьс</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">до крови</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adv">весемезэ</l>
+     <stg>
+       <st Contlex="QNT_">весемезэ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="Adv">вестешка</l>
      <stg>
@@ -2791,6 +2844,27 @@
        <x>Мезеськак путозь, ладязь тарказонзо аволь чирьстэ. Палманесь стявтозь видестэ. Крандазось аравтозь видестэ утомкенкшенть икелев. Путык картузот видестэ, мейс чиртик?</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">видечинь пев</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">видечинь пев</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">право</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -3267,7 +3341,7 @@
      <stg>
        <st Contlex="QNT_">доволь</st>
      </stg>
-       <l_cogn pos="Adv" xml_lang="rus">вдоволь</l_cogn>
+       <l_cogn pos="Adv" xml:lang="rus">вдоволь</l_cogn>
        <l_ref pos="Adv">байтяк</l_ref>
    </lg>
      <sources>
@@ -3367,7 +3441,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">дубот</l>
-     <etymology> <etym xml_lang="rus">дыбы</etym>
+     <etymology> <etym xml:lang="rus">дыбы</etym>
      </etymology>
      <stg>
        <st Contlex="ADV-IDEOPH">дубот</st>
@@ -4268,7 +4342,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">кабу</l>
-     <etymology> <etym xml_lang="rus">как бы</etym>
+     <etymology> <etym xml:lang="rus">как бы</etym>
      </etymology>
      <stg>
        <st Contlex="ADV_">кабу</st>
@@ -4588,6 +4662,35 @@
      <defNative>Невти кодамо ладсо молить ламо ломантне. Солдаттнэ молить стройсэ кавтонь-кавтонь. Эйкакштнэ молить кавтонь-кавтонь кедте кедьс кундазь. Истя эрси эрьва ловома валонть марто ─ колмонь-колмонь, нилень-нилень ды истя товгак. Теде башка, неть валтнэ невтить, кодамо ладсо теезь мезеньгак явомась ды зняронь-зняронь сатотсь эрьванень.</defNative>
      <xg>
        <x>Умартнень явизь, эрьванень сатотсть кавтонь-кавтонь. Куяртнэнь явомсто эрьванень сатотсть колмонь-колмонь.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adv">кавтоньгирда</l>
+     <stg>
+       <st Contlex="QNT_">кавтоньгирда</st>
+       <st Contlex="QNT_">кавоньгирда</st>
+     </stg> <lsub>кавоньгирда</lsub>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Кавксть. Кавтоксть. Теезь кавксть. Ламокстазь кавксть. 1)</defNative>
+     <xg>
+       <x>Модась изазь кавоньгирда.</x>
+       <xt/>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <defNative/>
+     <xg>
+       <x>Пиксэсь поназь кавоньгирда. Суресь пельдезь кавоньгирда.</x>
        <xt/>
      </xg>
    </mg>
@@ -5116,6 +5219,153 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">керш пеле</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">керш пеле</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">слева</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">керш пелев</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">керш пелев</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">налево</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">керш пельга</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">керш пельга</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">по левой стороне</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">керш ёнга</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">керш ёнга</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">по левой стороне</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">керш ёндо</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">керш ёндо</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">слева</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">керш ёно</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">керш ёно</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">слева</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">керш ёнов</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">керш ёнов</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">налево</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="Adv">кершев</l>
      <stg>
@@ -5173,6 +5423,28 @@
        <x>Кизна якинек вирев. Кизна саян оймсема шка ды туян велев.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">кирда</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="QNT_">кирда</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <xg>
+       <x>Пиксэсь поназь кавтоньгирда. Суресь пельдезь колмоньгирда.</x>
+       <xt/>
+     </xg>
+     <defNative>вал пелькс, свал ёвтави ловома вал мельга ды невти ламокстамонь чарькодема. Кавтоньгирда, колмоньгирда ди истя седе тов.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -5560,6 +5832,21 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="Adv">колмоньгирда</l>
+     <stg>
+       <st Contlex="NUM_KUDO">колмоньгирда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="Adv" type="Assoc">колмошканенк</l>
      <stg>
        <st Contlex="Assoc-Coll">колмошканенк</st>
@@ -5845,7 +6132,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">кругом</l>
-     <etymology> <etym xml_lang="rus"> <constituent>теке</constituent> </etym>
+     <etymology> <etym xml:lang="rus"> <constituent>теке</constituent> </etym>
      </etymology>
      <stg>
        <st Contlex="ADV_">кругом</st>
@@ -6563,7 +6850,7 @@
    <lg>
      <l pos="Adv">ласте</l>
      <etymology>
-       <etymon algu_lekseemi_id="67265" ilmentyma_id="192860" xml_lang="myv">ласте</etymon>
+       <etymon algu_lekseemi_id="67265" ilmentyma_id="192860" xml:lang="myv">ласте</etymon>
      </etymology>
      <stg>
        <st Contlex="PRED2-SUBJ_KUDO">ласте</st>
@@ -7376,7 +7663,7 @@
      <stg>
        <st Contlex="ADV_KAL">мей</st>
      </stg>
-       <l_cogn pos="Adv" src="Bereczki:2013" xml_lang="mrj">мӧнкӧ</l_cogn>
+       <l_cogn pos="Adv" src="Bereczki:2013" xml:lang="mrj">мӧнкӧ</l_cogn>
    </lg>
      <sources>
      </sources>
@@ -7549,7 +7836,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">мекс</l>
-     <etymology> <etym>-æ-</etym> <etym xml_lang="fin">miksi</etym>
+     <etymology> <etym>-æ-</etym> <etym xml:lang="fin">miksi</etym>
      </etymology>
      <stg>
        <st Contlex="ADV-INTERR-OBJ_MEZE_IS-TRA">мӒ4кс</st>
@@ -7870,7 +8157,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">мирём</l>
-     <etymology> <etym xml_lang="rus">миром</etym>
+     <etymology> <etym xml:lang="rus">миром</etym>
      </etymology>
      <stg>
        <st Contlex="ADV_">мирём</st>
@@ -8995,7 +9282,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">пек</l>
-     <etymology> <etym xml_lang="tat"> <constituent>бик</constituent> </etym>
+     <etymology> <etym xml:lang="tat"> <constituent>бик</constituent> </etym>
      </etymology>
      <stg>
        <st Contlex="ADV_">пек</st>
@@ -9076,21 +9363,6 @@
        <x>Те пелев сы улав. Ломанесь тусь тона пелев. Веленть пелев сыть ламо ломанть. Пелесь айги минек пелев.</x>
        <xt/>
      </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">пелеве шкане</l>
-     <stg>
-       <st Contlex="ADV-TEMP_">пелеве шкане</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -10513,7 +10785,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">сразу</l>
-     <etymology> <etym xml_lang="rus"> <constituent>теке</constituent> </etym>
+     <etymology> <etym xml:lang="rus"> <constituent>теке</constituent> </etym>
      </etymology>
      <stg>
        <st Contlex="ADV-TEMP_">сразу</st>
@@ -13880,7 +14152,7 @@
      <stg>
        <st Contlex="PRED2-SUBJ_KUDO">ялго</st>
      </stg>
-       <l_cogn pos="N" src="Bereczki:2013" xml_lang="mrj">ял</l_cogn> <compg> </compg>
+       <l_cogn pos="N" src="Bereczki:2013" xml:lang="mrj">ял</l_cogn> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -13982,6 +14254,27 @@
      <defNative>Эцемс козоньгак капшазь, рунгонь чаравтозь. Ютамс тей-тов кайсевезь. Чиемс рунгонь чиртнезь.</defNative>
    </mg>
 </e>
+<e>
+   <map/>
+   <lg>
+     <l pos="Adv">ёндолкс-нармунькс</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">ёндолкс-нармунькс</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adv">быстро</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
 <e id="None" meta="">
    <map/>
    <lg>
@@ -14035,6 +14328,72 @@
        <x>Цёрынесь ёнсто ловны. Ёнсто теить, рамить книга. Ялгай, теят а ёнсто, якат саламо.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e exclude="fst">
+   <map/>
+   <lg>
+     <l pos="Adv">авцор</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">авцор</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adv">неуклюже</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e exclude="fst" id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">аламонь тарка</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st>аламонь тарка</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">not too far away</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">не совсем далеко</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e exclude="fst" id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">алдо верев</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">алдо верев</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adv">снизу доверху</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 </r> 

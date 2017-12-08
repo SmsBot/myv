@@ -65,7 +65,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Det" type="Dem">васолце</l>
-     <etymology> <etym etymType="hypotheticalErzya" xml_lang="myv"> <constituent>васол+се</constituent> </etym>
+     <etymology> <etym etymType="hypotheticalErzya" xml:lang="myv"> <constituent>васол+се</constituent> </etym>
      </etymology>
      <stg>
        <st Contlex="DET-DEM_ALCE">васолце</st>
@@ -307,6 +307,28 @@
        <x>Лия ломань. Лия книга. Монень эряви муемс лия ялга. Молемстэ туевинь лия киява. Совинь лия кудос.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e>
+   <map/>
+   <lg>
+     <l pos="Det">омбо</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="QNT_">омбо</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <xg>
+       <x>Омбо мастор. Омбо велень ломань. Туевинь омбо киява. Паксянь омбо песэ.</x>
+       <xt/>
+     </xg>
+     <defNative>(а полавтневи) Лия, омбоце, тона.</defNative>
    </mg>
 </e>
 <e id="None" meta="">

@@ -5347,12 +5347,12 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">ашо</l>
-     <etymology> <etym xml_lang="tut"/> <etym lemmaID="ош" xml_lang="mhr"/>
+     <etymology> <etym xml:lang="tut"/> <etym lemmaID="ош" xml:lang="mhr"/>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">ашо</st>
      </stg>
-       <l_cogn pos="A" xml_lang="mrj">ош</l_cogn>
+       <l_cogn pos="A" xml:lang="mrj">ош</l_cogn>
    </lg>
      <sources>
        <book name="Olga01"/>
@@ -11544,7 +11544,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">вишка</l>
-     <etymology> <etym xml_lang="est"> <constituent>väike</constituent> </etym>
+     <etymology> <etym xml:lang="est"> <constituent>väike</constituent> </etym>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">вишка</st>
@@ -12360,7 +12360,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">вредной</l>
-     <etymology> <etym xml_lang="rus"> <constituent>теке</constituent> </etym>
+     <etymology> <etym xml:lang="rus"> <constituent>теке</constituent> </etym>
      </etymology>
      <stg>
        <st Contlex="A_RU-OJ">вредн</st>
@@ -16870,7 +16870,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">жадной</l>
-     <etymology> <etym xml_lang="rus"> <constituent>теке</constituent> </etym>
+     <etymology> <etym xml:lang="rus"> <constituent>теке</constituent> </etym>
      </etymology>
      <stg>
        <st Contlex="A_RU-OJ">жадн</st>
@@ -22519,7 +22519,7 @@
    <lg>
      <l pos="A">кеверь</l>
      <etymology>
-       <etymon algu_lekseemi_id="94311" ilmentyma_id="280197" xml_lang="myv">кеверь</etymon>
+       <etymon algu_lekseemi_id="94311" ilmentyma_id="280197" xml:lang="myv">кеверь</etymon>
      </etymology>
      <stg>
        <st Contlex="A_KAL">кеверь</st>
@@ -23067,13 +23067,13 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">кельме</l>
-     <etymology> <etym>[-æ-]</etym> <etym xml_lang="fin"> <constituent>kylmä</constituent> </etym> <etym xml_lang="sme"> <constituent>galmmas</constituent> </etym>
-       <etymon algu_lekseemi_id="75635" ilmentyma_id="289099" xml_lang="myv">кельме</etymon>
+     <etymology> <etym>[-æ-]</etym> <etym xml:lang="fin"> <constituent>kylmä</constituent> </etym> <etym xml:lang="sme"> <constituent>galmmas</constituent> </etym>
+       <etymon algu_lekseemi_id="75635" ilmentyma_id="289099" xml:lang="myv">кельме</etymon>
      </etymology>
      <stg>
        <st Contlex="A_TINGE">кельм</st>
      </stg>
-       <l_cogn pos="A" src="Bereczki:2013" xml_lang="mrj">кӹлме</l_cogn>
+       <l_cogn pos="A" src="Bereczki:2013" xml:lang="mrj">кӹлме</l_cogn>
    </lg>
      <sources>
        <book name="Olga01"/>
@@ -24702,6 +24702,27 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="A">колган пря</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="BAHUV_KUDO">колган пря</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="A">большеголовый</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="A">коленчатой</l>
      <stg>
@@ -26031,7 +26052,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">косыря</l>
-     <etymology> <etym xml_lang="rus">косырь</etym>
+     <etymology> <etym xml:lang="rus">косырь</etym>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">косыря</st>
@@ -26115,7 +26136,7 @@
    <lg>
      <l pos="A">коське</l>
      <etymology>
-       <etymon algu_lekseemi_id="74092" ilmentyma_id="289086" xml_lang="myv">коське</etymon>
+       <etymon algu_lekseemi_id="74092" ilmentyma_id="289086" xml:lang="myv">коське</etymon>
      </etymology>
      <stg>
        <st Contlex="A_TINGE">коськ</st>
@@ -27030,8 +27051,8 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">кувака</l>
-     <etymology> <etym xml_lang="sme"> <constituent>guhkki</constituent> </etym>
-       <etymon algu_lekseemi_id="74296" ilmentyma_id="249546" xml_lang="myv">кувака</etymon>
+     <etymology> <etym xml:lang="sme"> <constituent>guhkki</constituent> </etym>
+       <etymon algu_lekseemi_id="74296" ilmentyma_id="249546" xml:lang="myv">кувака</etymon>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">кувака</st>
@@ -29046,7 +29067,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">лембе</l>
-     <etymology> <etym xml_lang="fin"> <constituent>lämmin</constituent> </etym> <etym xml_lang="kpv"> <constituent>ломтас</constituent> 'уштомапель' </etym>
+     <etymology> <etym xml:lang="fin"> <constituent>lämmin</constituent> </etym> <etym xml:lang="kpv"> <constituent>ломтас</constituent> 'уштомапель' </etym>
      </etymology>
      <stg>
        <st Contlex="A_TINGE">лемб</st>
@@ -35676,7 +35697,7 @@
      <stg>
        <st Contlex="A_PANGO">начк</st>
      </stg>
-       <l_cogn pos="A" src="Bereczki:2013" xml_lang="mhr">начкы</l_cogn>
+       <l_cogn pos="A" src="Bereczki:2013" xml:lang="mhr">начкы</l_cogn>
    </lg>
      <sources>
      </sources>
@@ -37367,7 +37388,7 @@
      <stg>
        <st Contlex="A_KUDO">ношка</st>
      </stg>
-       <l_cogn pos="A" src="Bereczki:2013" xml_lang="mrj">нӹшкӹ</l_cogn>
+       <l_cogn pos="A" src="Bereczki:2013" xml:lang="mrj">нӹшкӹ</l_cogn>
    </lg>
      <sources>
      </sources>
@@ -38953,7 +38974,7 @@
    <lg>
      <l pos="A">ожо</l>
      <etymology>
-       <etymon algu_lekseemi_id="86702" ilmentyma_id="259146" xml_lang="myv">ожо</etymon>
+       <etymon algu_lekseemi_id="86702" ilmentyma_id="259146" xml:lang="myv">ожо</etymon>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">ожо</st>
@@ -41428,7 +41449,7 @@
    <lg>
      <l pos="A">паро</l>
      <etymology>
-       <etymon algu_lekseemi_id="68079" ilmentyma_id="192891" xml_lang="myv">паро</etymon>
+       <etymon algu_lekseemi_id="68079" ilmentyma_id="192891" xml:lang="myv">паро</etymon>
      </etymology>
      <stg>
        <st Contlex="A_PANGO">пар</st>
@@ -48774,7 +48795,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">пси</l>
-     <etymology> <etym xml_lang="kpv"> <constituent>пöсь</constituent> </etym>
+     <etymology> <etym xml:lang="kpv"> <constituent>пöсь</constituent> </etym>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">пси</st>
@@ -55213,7 +55234,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">смел</l>
-     <etymology> <etym xml_lang="rus">смелый</etym>
+     <etymology> <etym xml:lang="rus">смелый</etym>
      </etymology>
      <stg>
        <st Contlex="A_KAL">смел</st>
@@ -69910,7 +69931,7 @@
    <lg>
      <l pos="A">чова</l>
      <etymology>
-       <etymon algu_lekseemi_id="92294" ilmentyma_id="275350" xml_lang="myv">чова</etymon>
+       <etymon algu_lekseemi_id="92294" ilmentyma_id="275350" xml:lang="myv">чова</etymon>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">чова</st>
@@ -70564,7 +70585,7 @@
    <lg>
      <l pos="A">чуро</l>
      <etymology>
-       <etymon algu_lekseemi_id="92161" ilmentyma_id="275069" xml_lang="myv">чуро</etymon>
+       <etymon algu_lekseemi_id="92161" ilmentyma_id="275069" xml:lang="myv">чуро</etymon>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">чуро</st>
@@ -74016,7 +74037,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">ярвой</l>
-     <etymology> <etym xml_lang="rus">яровой</etym>
+     <etymology> <etym xml:lang="rus">яровой</etym>
      </etymology>
      <stg>
        <st Contlex="A_RU-OJ">ярв</st>
@@ -74490,7 +74511,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">ёлма</l>
-     <etymology> <etym xml_lang="mdf">ёмла</etym>
+     <etymology> <etym xml:lang="mdf">ёмла</etym>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">ёлма</st>

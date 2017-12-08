@@ -2045,7 +2045,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Interj">цюр</l>
-     <etymology> <etym xml_lang="rus">чур</etym>
+     <etymology> <etym xml:lang="rus">чур</etym>
      </etymology>
      <stg>
        <st Contlex="INTERJ_">цюр</st>
@@ -2553,6 +2553,27 @@
        <x>Ярь, тевтне беряньгадсть. Ярь, молинек кувать, пачкодинек чаво паксяс.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e exclude="fst" id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Interj">ва сонзэ</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="INTERJ_">ва сонзэ</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">ахти</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 </r> 
