@@ -12,7 +12,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>право</t>
+       <t pos="Adv">право</t>
      </tg>
      <defNative/>
    </mg>
@@ -446,7 +446,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>вперевалку</t>
+       <t pos="Adv">вперевалку</t>
      </tg>
      <defNative/>
    </mg>
@@ -464,7 +464,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>трезвый</t>
+       <t pos="Adv">трезвый</t>
      </tg>
      <defNative/>
    </mg>
@@ -1127,7 +1127,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>хорошо</t>
+       <t pos="Adv">хорошо</t>
      </tg>
      <defNative/>
    </mg>
@@ -1164,7 +1164,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>с жадностью</t>
+       <t pos="Adv">с жадностью</t>
      </tg>
      <defNative/>
    </mg>
@@ -2410,7 +2410,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>хором</t>
+       <t pos="Adv">хором</t>
      </tg>
      <defNative/>
    </mg>
@@ -2627,7 +2627,9 @@
        <t pos="Adv">ylös</t>
      </tg>
      <tg xml:lang="rus">
-       <t>вверху, наверху, высоко</t>
+       <t pos="Adv">вверху</t>
+       <t pos="Adv">наверху</t>
+       <t pos="Adv">высоко</t>
      </tg>
      <defNative>Аволь алов</defNative>
    </mg>
@@ -2824,7 +2826,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>правильно</t>
+       <t pos="Adv">правильно</t>
      </tg>
      <defNative/>
    </mg>
@@ -3597,7 +3599,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>когда-нибудь</t>
+       <t pos="Adv">когда-нибудь</t>
      </tg>
      <defNative/>
    </mg>
@@ -3895,7 +3897,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>беженец</t>
+       <t pos="Adv">беженец</t>
      </tg>
      <defNative/>
    </mg>
@@ -4061,7 +4063,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>захваченный</t>
+       <t pos="Adv">захваченный</t>
      </tg>
      <defNative/>
    </mg>
@@ -4611,7 +4613,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>один за другим, подряд</t>
+       <t pos="Adv">один за другим</t>
+       <t pos="Adv">подряд</t>
      </tg>
      <defNative/>
    </mg>
@@ -4901,7 +4904,7 @@
        <sem class="MORFAS"/>
      </semantics>
      <tg xml:lang="eng">
-       <t>against</t>
+       <t pos="Adv">against</t>
      </tg>
      <defNative/>
    </mg>
@@ -4919,7 +4922,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>с противоположной стороны</t>
+       <t pos="Adv">с противоположной стороны</t>
      </tg>
      <defNative/>
    </mg>
@@ -4937,7 +4940,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>с противоположной стороны</t>
+       <t pos="Adv">с противоположной стороны</t>
      </tg>
      <defNative/>
    </mg>
@@ -4955,7 +4958,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>на противоположной стороне</t>
+       <t pos="Adv">на противоположной стороне</t>
      </tg>
      <defNative/>
    </mg>
@@ -4973,7 +4976,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>с противоположной стороны</t>
+       <t pos="Adv">с противоположной стороны</t>
      </tg>
      <defNative/>
    </mg>
@@ -5125,7 +5128,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>подморозило(о погоде)</t>
+       <t pos="Adv">подморозило(о погоде)</t>
      </tg>
      <defNative/>
    </mg>
@@ -6067,7 +6070,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>откуда ни возьмись</t>
+       <t pos="Adv">откуда ни возьмись</t>
      </tg>
      <defNative/>
    </mg>
@@ -6256,7 +6259,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>надолго ли, долго ли</t>
+       <t pos="Adv">надолго ли</t>
+       <t pos="Adv">долго ли</t>
      </tg>
      <defNative/>
    </mg>
@@ -7664,7 +7668,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="eng">
-       <t>out of what</t>
+       <t pos="Adv">out of what</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="Adv">mistä</t>
@@ -7890,7 +7894,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>отчего-то, почему-то</t>
+       <t pos="Adv">отчего-то</t>
+       <t pos="Adv">почему-то</t>
      </tg>
      <defNative/>
    </mg>
@@ -8038,7 +8043,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>охотно, с удовольствием</t>
+       <t pos="Adv">охотно</t>
+       <t pos="Adv">с удовольствием</t>
      </tg>
      <defNative/>
    </mg>
@@ -8115,7 +8121,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>давно, в прошлом</t>
+       <t pos="Adv">давно</t>
+       <t pos="Adv">в прошлом</t>
      </tg>
      <defNative/>
    </mg>
@@ -8280,7 +8287,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>в полночь</t>
+       <t pos="Adv">в полночь</t>
      </tg>
      <defNative/>
    </mg>
@@ -9716,7 +9723,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="eng">
-       <t>under foot</t>
+       <t pos="Adv">under foot</t>
      </tg>
      <defNative/>
      <xg> <x/>
@@ -10407,7 +10414,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>тогда, в то время</t>
+       <t pos="Adv">тогда</t>
+       <t pos="Adv">в то время</t>
      </tg>
      <defNative/>
    </mg>
@@ -10929,7 +10937,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="eng">
-       <t>under the nose</t>
+       <t pos="Adv">under the nose</t>
      </tg>
      <defNative/>
      <xg> <x/>
@@ -10950,7 +10958,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>в старости</t>
+       <t pos="Adv">в старости</t>
      </tg>
      <defNative/>
    </mg>
@@ -11447,7 +11455,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>тут же, сразу же</t>
+       <t pos="Adv">тут же</t>
+       <t pos="Adv">сразу же</t>
      </tg>
      <defNative/>
    </mg>
@@ -11484,7 +11493,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>по-зимнему</t>
+       <t pos="Adv">по-зимнему</t>
      </tg>
      <defNative/>
    </mg>
@@ -11502,7 +11511,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>всю зиму</t>
+       <t pos="Adv">всю зиму</t>
      </tg>
      <defNative/>
    </mg>
@@ -12699,7 +12708,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>с пустыми руками</t>
+       <t pos="Adv">с пустыми руками</t>
      </tg>
      <defNative/>
    </mg>
@@ -13317,7 +13326,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>под деревом</t>
+       <t pos="Adv">под деревом</t>
      </tg>
      <defNative/>
    </mg>
@@ -13909,7 +13918,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>по своему мнению</t>
+       <t pos="Adv">по своему мнению</t>
      </tg>
      <defNative/>
    </mg>
@@ -13927,7 +13936,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>по своему желанию</t>
+       <t pos="Adv">по своему желанию</t>
      </tg>
      <defNative/>
    </mg>
@@ -13945,7 +13954,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>про себя</t>
+       <t pos="Adv">про себя</t>
      </tg>
      <defNative/>
    </mg>
@@ -13963,7 +13972,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>по своей цене</t>
+       <t pos="Adv">по своей цене</t>
      </tg>
      <defNative/>
    </mg>
