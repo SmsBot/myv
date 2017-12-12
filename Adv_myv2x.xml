@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
 <e id="None" meta="">
+   <lg>
+     <l pos="Adv">видечинь nев</l>
+     <stg>
+       <st Contlex="ADV_">видечинь nев</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>право</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
    <map/>
    <lg>
      <l pos="Adv">а васоло</l>
@@ -4030,11 +4048,11 @@
      </xg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="Adv">изнязь-саезь</l>
      <stg>
-       <st Contlex="ADV_">изнязь-саезь</st>
+       <st Contlex="A_">изнязь-саезь</st>
      </stg>
    </lg>
      <sources>
@@ -5107,7 +5125,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>подморозилло (о погоде)</t>
        <t>подморозило(о погоде)</t>
      </tg>
      <defNative/>
@@ -8252,9 +8269,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">неень шкасто</l>
+     <l pos="Adv">пелеве шкане</l>
      <stg>
-       <st Contlex="ADV_">неень шкасто</st>
+       <st Contlex="ADV_">пелеве шкане</st>
      </stg>
    </lg>
      <sources>
@@ -8263,7 +8280,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t>в настоящее время</t>
+       <t>в полночь</t>
      </tg>
      <defNative/>
    </mg>
@@ -14272,7 +14289,7 @@
      <tg xml:lang="rus">
        <t pos="Adv">быстро</t>
      </tg>
-     <defNative>null</defNative>
+     <defNative></defNative>
    </mg>
 </e>
 <e id="None" meta="">
