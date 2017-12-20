@@ -146,7 +146,7 @@
    <lg>
      <l pos="A">а згилиця</l>
      <stg>
-       <st Contlex="A_KUDO">а згилиця</st>
+       <st Contlex="ActDemPrc-A">а згилиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -164,7 +164,7 @@
    <lg>
      <l pos="A">а изнявиця</l>
      <stg>
-       <st Contlex="A_KUDO">а изнявиця</st>
+       <st Contlex="ActDemPrc-A">а изнявиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -186,7 +186,7 @@
    <lg>
      <l pos="A">а кавтолдыця</l>
      <stg>
-       <st Contlex="A_KUDO">а кавтолдыця</st>
+       <st Contlex="ActDemPrc-A">а кавтолдыця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -204,7 +204,7 @@
    <lg>
      <l pos="A">а капшиця</l>
      <stg>
-       <st Contlex="A_KUDO">а капшиця</st>
+       <st Contlex="ActDemPrc-A">а капшиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -259,7 +259,7 @@
    <lg>
      <l pos="A">а кенериця</l>
      <stg>
-       <st Contlex="A_KUDO">а кенериця</st>
+       <st Contlex="ActDemPrc-A">а кенериця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -277,7 +277,7 @@
    <lg>
      <l pos="A">а керявиця</l>
      <stg>
-       <st Contlex="A_KUDO">а керявиця</st>
+       <st Contlex="ActDemPrc-A">а керявиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -295,7 +295,7 @@
    <lg>
      <l pos="A">а кирдевиця</l>
      <stg>
-       <st Contlex="A_KUDO">а кирдевиця</st>
+       <st Contlex="ActDemPrc-A">а кирдевиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -317,7 +317,7 @@
    <lg>
      <l pos="A">а кортыця</l>
      <stg>
-       <st Contlex="A_KUDO">а кортыця</st>
+       <st Contlex="ActDemPrc-A">а кортыця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -358,7 +358,7 @@
    <lg>
      <l pos="A">а кунсолыця</l>
      <stg>
-       <st Contlex="A_KUDO">а кунсолыця</st>
+       <st Contlex="ActDemPrc-A">а кунсолыця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -376,7 +376,7 @@
    <lg>
      <l pos="A">а ладиця</l>
      <stg>
-       <st Contlex="A_KUDO">а ладиця</st>
+       <st Contlex="ActDemPrc-A">а ладиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -398,7 +398,7 @@
    <lg>
      <l pos="A">а липниця</l>
      <stg>
-       <st Contlex="A_KUDO">а липниця</st>
+       <st Contlex="ActDemPrc-A">а липниця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -435,7 +435,7 @@
    <lg>
      <l pos="A">а лыкавиця</l>
      <stg>
-       <st Contlex="A_KUDO">а лыкавиця</st>
+       <st Contlex="ActDemPrc-A">а лыкавиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -472,7 +472,7 @@
    <lg>
      <l pos="A">а мариця</l>
      <stg>
-       <st Contlex="A_KUDO">а мариця</st>
+       <st Contlex="ActDemPrc-A">а мариця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -509,7 +509,7 @@
    <lg>
      <l pos="A">а маштовиця</l>
      <stg>
-       <st Contlex="A_KUDO">а маштовиця</st>
+       <st Contlex="ActDemPrc-A">а маштовиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -527,7 +527,7 @@
    <lg>
      <l pos="A">а маштыця</l>
      <stg>
-       <st Contlex="A_KUDO">а маштыця</st>
+       <st Contlex="ActDemPrc-A">а маштыця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -549,7 +549,7 @@
    <lg>
      <l pos="A">а менчевиця</l>
      <stg>
-       <st Contlex="A_KUDO">а менчевиця</st>
+       <st Contlex="ActDemPrc-A">а менчевиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -590,7 +590,7 @@
    <lg>
      <l pos="A">а неиця</l>
      <stg>
-       <st Contlex="A_KUDO">а неиця</st>
+       <st Contlex="ActDemPrc-A">а неиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -630,7 +630,7 @@
    <lg>
      <l pos="A">а неявиця</l>
      <stg>
-       <st Contlex="A_KUDO">а неявиця</st>
+       <st Contlex="ActDemPrc-A">а неявиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -689,7 +689,7 @@
    <lg>
      <l pos="A">а оймавиця</l>
      <stg>
-       <st Contlex="A_KUDO">а оймавиця</st>
+       <st Contlex="ActDemPrc-A">а оймавиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -711,7 +711,7 @@
    <lg>
      <l pos="A">а оймиця</l>
      <stg>
-       <st Contlex="A_KUDO">а оймиця</st>
+       <st Contlex="ActDemPrc-A">а оймиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -751,7 +751,7 @@
    <lg>
      <l pos="A">а пелиця</l>
      <stg>
-       <st Contlex="A_KUDO">а пелиця</st>
+       <st Contlex="ActDemPrc-A">а пелиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -788,7 +788,7 @@
    <lg>
      <l pos="A">а пичкиця</l>
      <stg>
-       <st Contlex="A_KUDO">а пичкиця</st>
+       <st Contlex="ActDemPrc-A">а пичкиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -810,7 +810,7 @@
    <lg>
      <l pos="A">а симиця</l>
      <stg>
-       <st Contlex="A_KUDO">а симиця</st>
+       <st Contlex="ActDemPrc-A">а симиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -870,7 +870,7 @@
    <lg>
      <l pos="A">а судрявиця</l>
      <stg>
-       <st Contlex="A_KUDO">а судрявиця</st>
+       <st Contlex="ActDemPrc-A">а судрявиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -925,7 +925,7 @@
    <lg>
      <l pos="A">а удыця</l>
      <stg>
-       <st Contlex="A_KUDO">а удыця</st>
+       <st Contlex="ActDemPrc-A">а удыця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -1000,7 +1000,7 @@
    <lg>
      <l pos="A">а чарькодевиця</l>
      <stg>
-       <st Contlex="A_KUDO">а чарькодевиця</st>
+       <st Contlex="ActDemPrc-A">а чарькодевиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -1022,7 +1022,7 @@
    <lg>
      <l pos="A">а чарькодиця</l>
      <stg>
-       <st Contlex="A_KUDO">а чарькодиця</st>
+       <st Contlex="ActDemPrc-A">а чарькодиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -1101,7 +1101,7 @@
    <lg>
      <l pos="A">а явовиця</l>
      <stg>
-       <st Contlex="A_KUDO">а явовиця</st>
+       <st Contlex="ActDemPrc-A">а явовиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -1123,7 +1123,7 @@
    <lg>
      <l pos="A">а якиця</l>
      <stg>
-       <st Contlex="A_KUDO">а якиця</st>
+       <st Contlex="ActDemPrc-A">а якиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -1164,7 +1164,7 @@
    <lg>
      <l pos="A">а ёвтавиця</l>
      <stg>
-       <st Contlex="A_KUDO">а ёвтавиця</st>
+       <st Contlex="ActDemPrc-A">а ёвтавиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -1398,7 +1398,7 @@
    <lg>
      <l pos="A">авастневиця</l>
      <stg>
-       <st Contlex="A_KUDO">авастневиця</st>
+       <st Contlex="ActDemPrc-A">авастневиця</st>
      </stg>
      <compg drv="Pcle:A»A" type="Cmp">
        <comp ms="Pcle.Neg" ord="E1" pos="Pcle">а</comp>
@@ -3012,7 +3012,7 @@
    <lg>
      <l pos="A">амолиця</l>
      <stg>
-       <st Contlex="A_KUDO">амолиця</st>
+       <st Contlex="ActDemPrc-A">амолиця</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
        <comp ms="V_Inf_Stem" ord="E1" pos="V">амолямс</comp>
@@ -20543,7 +20543,7 @@
    <lg>
      <l pos="A">кадалиця</l>
      <stg>
-       <st Contlex="A_KUDO">кадалиця</st>
+       <st Contlex="ActDemPrc-A">кадалиця</st>
      </stg>
    </lg>
      <sources>
@@ -22778,7 +22778,7 @@
    <lg>
      <l pos="A">кежень кирдиця</l>
      <stg>
-       <st Contlex="A_KUDO">кежень кирдиця</st>
+       <st Contlex="ActDemPrc-A">кежень кирдиця</st>
      </stg>
      <compg drv="N:A»A" type="Der">
        <comp ms="N.SP.Gen" ord="E1" pos="N">кеж</comp>
@@ -28287,7 +28287,7 @@
    <lg>
      <l pos="A">лазовиця</l>
      <stg>
-       <st Contlex="A_KUDO">лазовиця</st>
+       <st Contlex="ActDemPrc-A">лазовиця</st>
      </stg>
      <compg drv="V:Suf»A" type="Der">
        <comp ms="V.Inf" ord="E1" pos="V">лазовомс</comp>
@@ -32506,7 +32506,7 @@
    <lg>
      <l pos="A">мельс каявиця</l>
      <stg>
-       <st Contlex="A_KUDO">мельс каявиця</st>
+       <st Contlex="ActDemPrc-A">мельс каявиця</st>
      </stg>
      <compg drv="N:A»A" type="Der">
        <comp ms="N.SP.Ill" ord="E1" pos="N">мель</comp>
@@ -32535,7 +32535,7 @@
    <lg>
      <l pos="A">мельстуиця</l>
      <stg>
-       <st Contlex="A_KUDO">мельстуиця</st>
+       <st Contlex="ActDemPrc-A">мельстуиця</st>
      </stg>
    </lg>
      <sources>
@@ -32762,7 +32762,7 @@
    <lg>
      <l pos="A">меншевиця</l>
      <stg>
-       <st Contlex="A_KUDO">меншевиця</st>
+       <st Contlex="ActDemPrc-A">меншевиця</st>
      </stg>
      <compg drv="V:Suf»A" type="Der">
        <comp ms="V.Inf" ord="E1" pos="V">меншевемс</comp>
@@ -35863,7 +35863,7 @@
    <lg>
      <l pos="A">невольниця</l>
      <stg>
-       <st Contlex="A_KUDO">невольниця</st>
+       <st Contlex="ActDemPrc-A">невольниця</st>
      </stg>
      <compg drv="V:Suf»A" type="Der">
        <comp ms="V.Inf" ord="E1" pos="V">невольнемс</comp>
@@ -37852,6 +37852,7 @@
      <l pos="A">нурькине</l>
      <stg>
        <st Contlex="A_VELE">нурькине</st>
+       <st Contlex="A_VELE" status="Dial">нирькине</st>
      </stg>
    </lg>
      <sources>
@@ -45200,7 +45201,7 @@
    <lg>
      <l pos="A">покшкавтниця</l>
      <stg>
-       <st Contlex="A_KUDO">покшкавтниця</st>
+       <st Contlex="ActDemPrc-A">покшкавтниця</st>
      </stg>
    </lg>
      <sources>
@@ -53526,7 +53527,7 @@
    <lg>
      <l pos="A">седеймариця</l>
      <stg>
-       <st Contlex="A_KUDO">седеймариця</st>
+       <st Contlex="ActDemPrc-A">седеймариця</st>
      </stg>
      <compg drv="N:A»A" type="Cmp">
        <comp ms="N.Sg.Nom" ord="E1" pos="N">седей</comp>
@@ -58926,7 +58927,7 @@
    <lg>
      <l pos="A">сэняждыця</l>
      <stg>
-       <st Contlex="A_KUDO">сэняждыця</st>
+       <st Contlex="ActDemPrc-A">сэняждыця</st>
      </stg>
      <compg drv="V:Suf»A" type="Der">
        <comp ms="V.Inf" ord="E1" pos="V">сэняждомс</comp>
@@ -58999,7 +59000,7 @@
    <lg>
      <l pos="A">сэпшть-мериця</l>
      <stg>
-       <st Contlex="A_KUDO">сэпшть-мериця</st>
+       <st Contlex="ActDemPrc-A">сэпшть-мериця</st>
      </stg>
      <compg drv="N:A»A" type="Cmp">
        <comp ms="N.Sg.Nom" ord="E1" pos="N">сэпшть</comp>
@@ -63351,7 +63352,7 @@
    <lg>
      <l pos="A">тупиця</l>
      <stg>
-       <st Contlex="A_KUDO">тупиця</st>
+       <st Contlex="ActDemPrc-A">тупиця</st>
      </stg>
      <compg drv="V:Suf»A" type="Der">
        <comp ms="V.Inf" ord="E1" pos="V">тупамс</comp>
@@ -63773,7 +63774,7 @@
    <lg>
      <l pos="A">тюжт-мериця</l>
      <stg>
-       <st Contlex="A_KUDO">тюжт-мериця</st>
+       <st Contlex="ActDemPrc-A">тюжт-мериця</st>
      </stg>
      <compg drv="N:A»A" type="Cmp">
        <comp ms="N.Sg.Nom" ord="E1" pos="N">тюжт</comp>
@@ -63792,7 +63793,7 @@
    <lg>
      <l pos="A">тюжт-молиця</l>
      <stg>
-       <st Contlex="A_KUDO">тюжт-молиця</st>
+       <st Contlex="ActDemPrc-A">тюжт-молиця</st>
      </stg>
      <compg drv="N:A»A" type="Cmp">
        <comp ms="N.Sg.Nom" ord="E1" pos="N">тюжт</comp>
@@ -74372,7 +74373,7 @@
    <lg>
      <l pos="A">ёжомариця</l>
      <stg>
-       <st Contlex="A_KUDO">ёжомариця</st>
+       <st Contlex="ActDemPrc-A">ёжомариця</st>
      </stg>
      <compg drv="N:A»A" type="Cmp">
        <comp ms="N.Sg.Nom" ord="E1" pos="N">ёжо</comp>
