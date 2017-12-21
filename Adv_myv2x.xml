@@ -4575,6 +4575,13 @@
      <semantics>
      </semantics>
      <defNative>Сынст эйстэ кавто. ─</defNative>
+     <tg xml:lang="fin">
+       <t pos="Adv">kahdestaan</t>
+       <t pos="Adv">kaksin</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">вдвоём</t>
+     </tg>
      <xg>
        <x>Сынь якасть патят-сазорт кавонест.</x>
        <xt/>
@@ -5713,7 +5720,7 @@
      </xg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="Adv">кода-бути</l>
      <stg>
