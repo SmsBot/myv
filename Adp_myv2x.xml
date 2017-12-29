@@ -1062,11 +1062,14 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adp">туро</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="POSTP_">туро</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -2712,32 +2715,6 @@
        <x>Каямс трокс вал.</x>
        <xt/>
      </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Po">туро</l>
-     <stg>
-       <st Contlex="POSTP_">туро</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Adv">noin</t>
-       <t pos="Adv">suunnilleen</t>
-       <t pos="Adv">likimäärin</t>
-       <t pos="Adv">lähimain</t>
-       <t pos="Adv">osapuilleen</t>
-       <t pos="Po">verran</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="Pr">с</t>
-       <t pos="Adv">около</t>
-     </tg>
    </mg>
 </e>
 <e id="None" meta="">

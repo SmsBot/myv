@@ -43,6 +43,57 @@
      <defNative/>
    </mg>
 </e>
+<e>
+   <map/>
+   <lg>
+     <l pos="Pron">весе</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="vese-QNT">весе</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+       <book name="Olga01"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Pron">all</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">kaikki</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Pron">tout</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Pron">все</t>
+     </tg>
+     <xg>
+       <x>Весе тусть вирень керямо. Минь весе мольтяно кинов. </x>
+       <xt/>
+     </xg>
+     <defNative>Марсо. Куцясо. Мирём. Вейкень пес.</defNative>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <xg>
+       <x src="">Весе книгатнень максынь велень ловнома кудов. </x>
+       <xt xml:lang=""/>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <semantics>
+     </semantics>
+     <xg>
+       <x src="">Тевтне прядовсть весе.</x>
+       <xt xml:lang=""/>
+     </xg>
+   </mg>
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="Pron">зярдо</l>

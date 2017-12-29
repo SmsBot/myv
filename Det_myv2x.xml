@@ -63,13 +63,14 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Det" type="Dem">васолце</l>
-     <etymology> <etym etymType="hypotheticalErzya" xml:lang="myv"> <constituent>васол+се</constituent> </etym>
+     <etymology> <etym etymType="hypotheticalErzya" xml:lang="myv"> васол+се </etym>
      </etymology>
      <stg>
        <st Contlex="DET-DEM_ALCE">васолце</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -79,7 +80,23 @@
      <tg xml:lang="fin">
        <t pos="Pron">kaukainen</t>
      </tg>
-     <defNative/>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">ведьгеменце</l>
+     <stg>
+       <st Contlex="IS_NUMORD_KUDO">ведьгеменце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <m>
+     </m>
    </mg>
 </e>
 <e id="None" meta="">
@@ -401,25 +418,6 @@
      <defNative>Васенценть мельга молиця.</defNative>
      <xg>
        <x>Омбоце кудос сован, кияк мезеяк а ёвты. Омбоце чи эрян велесэ. Омбоце чи сакшнан тевтеме.</x>
-       <xt/>
-     </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Det">пиреёнце</l>
-     <stg>
-       <st Contlex="DEM_ALCE">пире#ёнце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-     <xg>
-       <x>Мольсь пире ёнце латонть алов ды…</x>
        <xt/>
      </xg>
    </mg>

@@ -15851,27 +15851,6 @@
    </mg>
 </e>
 <e id="None" meta="">
-   <map/>
-   <lg>
-     <l pos="N">кургео еуекомо</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st>кургео еуекомо</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="undefined">x</t>
-     </tg>
-     <defNative>null</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">л</l>
      <stg>
@@ -15884,27 +15863,6 @@
      <semantics>
      </semantics>
      <defNative>Алфавитэнь кемголмовоце тешкске, вейксэеце а моравикс гайть. Пеень-келень гайниця а моравикс гайть, ёвтави чевтестэ ды калгодосто, коштось лиси келень кавто пельга.</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
-   <map/>
-   <lg>
-     <l pos="N">л у д я м с</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st>л у д я м с</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="undefined">x</t>
-     </tg>
-     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">

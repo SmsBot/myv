@@ -30172,22 +30172,38 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="A">ломань</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st Contlex="A_KAL">ломань</st>
-     </stg>
+       <st Contlex="A-ADN">ломань</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="A">strange</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="A">vieras</t>
        <t pos="A">toisen oma</t>
      </tg>
-     <defNative/>
+     <defNative>null</defNative>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="A">human</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">ihmis-</t>
+     </tg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -35692,12 +35708,15 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="A">начко</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="A_PANGO">начк</st>
      </stg>
-       <l_cogn pos="A" src="Bereczki:2013" xml:lang="mhr">начкы</l_cogn>
+       <l_cogn pos="A" src="Bereczki:2013" xml:lang="mhr">начкы</l_cogn> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -35714,20 +35733,26 @@
      <tg xml:lang="fra">
        <t pos="A">mouillé</t>
      </tg>
-     <defNative>Летькеде седе ведев.</defNative>
+     <tg xml:lang="rus">
+       <t pos="A">сырой</t>
+     </tg>
      <xg>
        <x>Начко панар. Начко прячерть. Начко пильгть.</x>
        <xt/>
      </xg>
+     <defNative>Летькеде седе ведев.</defNative>
    </mg>
    <mg relId="1">
      <semantics>
      </semantics>
-     <defNative>Летьке тарка.</defNative>
+     <tg xml:lang="rus">
+       <t pos="A">дождливый</t>
+     </tg>
      <xg>
        <x>Начко мода. Начко киякс. Пиземеде мейле начко ки. Начко тикше.</x>
        <xt/>
      </xg>
+     <defNative>Летьке тарка.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -39422,7 +39447,7 @@
    <lg>
      <l pos="A">омбо</l>
      <stg>
-       <st Contlex="A-ADN">омбо</st>
+       <st Contlex="A_KUDO">омбо</st>
      </stg>
    </lg>
      <sources>
@@ -50827,7 +50852,6 @@
        <t pos="A">uudestirakentamis-</t>
      </tg>
      <defNative/>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -60744,22 +60768,33 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="A">тедедень</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="A-IS-GEN">тедедень</st>
-     </stg>
+       <st Contlex="A-IS-GEN" status="Err/Orth">тедидень</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative>Те иень.</defNative>
+     <tg xml:lang="eng">
+       <t pos="N">this year's</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">tämänvuotinen</t>
+       <t pos="N">tämän vuoden</t>
+     </tg>
      <xg>
        <x>Тедедень сюрось вельть паро. Тедедень сёксесь пиземев.</x>
        <xt/>
      </xg>
+     <defNative>Те иень.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -63047,6 +63082,30 @@
      <semantics>
      </semantics>
      <defNative/>
+   </mg>
+</e>
+<e>
+   <map/>
+   <lg>
+     <l pos="A">туваконь</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="A-IS-GEN">туваконь</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">sen ajan</t>
+     </tg>
+     <xg>
+       <x src="Доронин, А. 1996. Баягань сулейть. лл. 378.">Стрелецэсь сыргась узере мельга, туваконь лишменть вакссто ологаяк кери.</x>
+       <xt xml:lang=""/>
+     </xg>
    </mg>
 </e>
 <e id="None" meta="">

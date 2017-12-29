@@ -577,27 +577,6 @@
    </mg>
 </e>
 <e id="None" meta="">
-   <map/>
-   <lg>
-     <l pos="Interj">ва сонзэ</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="INTERJ_">ва сонзэ</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="rus">
-       <t pos="undefined">ахти</t>
-     </tg>
-     <defNative>null</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
    <lg>
      <l pos="Interj">вадо</l>
      <stg>
@@ -1706,6 +1685,27 @@
        <t pos="Interj">золотце</t>
      </tg>
      <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Interj">сэтьме эрямо тенк</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="INTERJ_">сэтьме эрямо тенк</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="undefined">мир вам</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">

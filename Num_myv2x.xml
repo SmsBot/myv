@@ -1885,10 +1885,10 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Num">колмоньгемень</l>
+     <l pos="Num">колоньгемень</l>
      <stg>
-       <st Contlex="NUM_KAL">колмоньгемень</st>
        <st Contlex="NUM_KAL">колоньгемень</st>
+       <st Contlex="NUM_KAL" status="Err/Orth">колмоньгемень</st>
      </stg>
    </lg>
      <sources>
@@ -1901,21 +1901,6 @@
        <x>Чадыковсонть колмоньгемень чить.</x>
        <xt/>
      </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Num">колмоньгирда</l>
-     <stg>
-       <st Contlex="NUM_KUDO">колмоньгирда</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2518,7 +2503,7 @@
      <tg xml:lang="fin">
        <t pos="Num">kuusisataa</t>
      </tg>
-     <defNative>Ловома вал. Сядось котоксть. Лиясто мерить котосядт.</defNative>
+     <defNative>Ловома вал. Сядось котоксть. Лиясто мерить котосядо.</defNative>
      <xg>
        <x>Минек велесэ эрить котосядт ломань.</x>
        <xt/>
