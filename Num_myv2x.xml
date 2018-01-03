@@ -1885,10 +1885,10 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Num">колоньгемень</l>
+     <l pos="Num">колмоньгемень</l>
      <stg>
+       <st Contlex="NUM_KAL">колмоньгемень</st>
        <st Contlex="NUM_KAL">колоньгемень</st>
-       <st Contlex="NUM_KAL" status="Err/Orth">колмоньгемень</st>
      </stg>
    </lg>
      <sources>
@@ -1901,6 +1901,21 @@
        <x>Чадыковсонть колмоньгемень чить.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">колмоньгирда</l>
+     <stg>
+       <st Contlex="NUM_KUDO">колмоньгирда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2014,6 +2029,26 @@
      <defNative>Мельга-мельцек ёвтамо.</defNative>
      <xg>
        <x>Колмоньгеменце ие эль юты, кода эрян ошсо.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Num">колоньгемень</l>
+     <stg>
+       <st Contlex="NUM_KAL">колоньгемень</st>
+       <st Contlex="NUM_KAL" status="Err/Orth">колмоньгемень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Лиясто кортыть колоньгемень. Ловома вал. Колмо кементь. Кеменесь колмоксть.</defNative>
+     <xg>
+       <x>Чадыковсонть колмоньгемень чить.</x>
        <xt/>
      </xg>
    </mg>

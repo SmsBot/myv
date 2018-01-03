@@ -534,31 +534,34 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adp">лангс</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="PO-SPAT-IS-ILL-STEM">ланг</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative>Валмельгакс. 1) Ёвтневи прявт лемень невтиця вал мельга, зярдо эряви тензэ максомс кодамояк чарькодема.</defNative>
      <xg>
        <x>Книганть путыя лався лангс. Озынь чочко лангс. Ванан од кудонть лангс. Мадинь каштом лангс.</x>
        <xt/>
      </xg>
+     <defNative>Валмельгакс. 1) Ёвтневи прявт лемень невтиця вал мельга, зярдо эряви тензэ максомс кодамояк чарькодема.</defNative>
    </mg>
    <mg relId="1">
      <semantics>
      </semantics>
-     <defNative>Невти мезе лангс тевтеемась аравтозь.</defNative>
      <xg>
        <x>Минек цёратнень лангс сон а ванны. Те лангс сельмет илязт сявадо, весементь теия эсень вийсэ ды эсень превсэ.</x>
        <xt/>
      </xg>
+     <defNative>Невти мезе лангс тевтеемась аравтозь.</defNative>
    </mg>
    <mg relId="2">
      <semantics>
@@ -568,20 +571,20 @@
    <mg relId="3">
      <semantics>
      </semantics>
-     <defNative>Шкас.</defNative>
      <xg>
        <x>Вензэ лангс сон эряви пурнамс копнынес, вень росась илясо летькемтне одов.</x>
        <xt/>
      </xg>
+     <defNative>Шкас.</defNative>
    </mg>
    <mg relId="4">
      <semantics>
      </semantics>
-     <defNative/>
      <xg>
        <x>Те лангс прядовсь Вера марто кортамось.</x>
        <xt/>
      </xg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2187,57 +2190,6 @@
      <semantics>
      </semantics>
      <defNative>Киде кортыть эли арсить. Тонь ланга корты весе велесь. Ламот арсить сонзэ ланга. &gt;</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Po">лангс</l>
-     <stg>
-       <st Contlex="Spat_">лангс</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative>Валмельгакс. 1) Ёвтневи прявт лемень невтиця вал мельга, зярдо эряви тензэ максомс кодамояк чарькодема.</defNative>
-     <xg>
-       <x>Книганть путыя лався лангс. Озынь чочко лангс. Ванан од кудонть лангс. Мадинь каштом лангс.</x>
-       <xt/>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <semantics>
-     </semantics>
-     <defNative>Невти мезе лангс тевтеемась аравтозь.</defNative>
-     <xg>
-       <x>Минек цёратнень лангс сон а ванны. Те лангс сельмет илязт сявадо, весементь теия эсень вийсэ ды эсень превсэ.</x>
-       <xt/>
-     </xg>
-   </mg>
-   <mg relId="2">
-     <semantics>
-     </semantics>
-     <defNative>Теке марто невти киде моли кортамось (берянь ёндо).</defNative>
-   </mg>
-   <mg relId="3">
-     <semantics>
-     </semantics>
-     <defNative>Шкас.</defNative>
-     <xg>
-       <x>Вензэ лангс сон эряви пурнамс копнынес, вень росась илясо летькемтне одов.</x>
-       <xt/>
-     </xg>
-   </mg>
-   <mg relId="4">
-     <semantics>
-     </semantics>
-     <defNative/>
-     <xg>
-       <x>Те лангс прядовсь Вера марто кортамось.</x>
-       <xt/>
-     </xg>
    </mg>
 </e>
 <e id="None" meta="">

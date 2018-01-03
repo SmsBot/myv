@@ -423,25 +423,6 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Pcle">келя</l>
-     <stg>
-       <st Contlex="PCLE_">келя</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative>Кортамсто лездыця вал пелькс. Сон ламова полавты неть валтнэнь: ёвтасть, мерсть, невтсть.</defNative>
-     <xg>
-       <x>Сон, келя, якась кинов. Тонь, келя, сайтядызь армияв. Сонзэ, келя, кучсызь тонавтнеме ошов.</x>
-       <xt/>
-     </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
      <l pos="Pcle">ли</l>
      <stg>
        <st Contlex="PCLE_">ли</st>

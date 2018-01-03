@@ -96,6 +96,25 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="Pron">весеме</l>
+     <stg>
+       <st Contlex="QNT_VESEME">весеме</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Эрьва. Лиясто весе.</defNative>
+     <xg>
+       <x>Весеменень явшесть кинов билетт.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="Pron">зярдо</l>
      <stg>
        <st Contlex="PRON-IS-INTERR-TEMP">зярдо</st>
@@ -242,33 +261,6 @@
        <x src="Валмеревкс">Пиреванть, улема, кияк якась, тапизе пурькапандянть. Миненек кияк сы, каткась шли-нарды.</x>
        <xt/>
      </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Pron">ков</l>
-     <stg>
-       <st Contlex="PRON-IS-INTERR-SPAT-LAT">ков</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="eng">
-       <t pos="Pron">where</t>
-       <t pos="Pron">to where</t>
-       <t pos="Pron">whither</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="Pron">minne</t>
-       <t pos="Pron">mihin</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="Pron">куда</t>
-     </tg>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -3142,6 +3134,25 @@
      <defNative>Эсеть потмова.</defNative>
      <xg>
        <x>Эськат арсят эрьва мезде.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e exclude="fst" id="None" meta="">
+   <lg>
+     <l pos="Pron">весенень</l>
+     <stg>
+       <st Contlex="PRON_">весенень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+     <xg>
+       <x>Нуеме эряви лисемс весенень.</x>
        <xt/>
      </xg>
    </mg>

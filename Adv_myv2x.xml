@@ -2218,6 +2218,39 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="Adv">ведьгеменнест</l>
+     <stg>
+       <st Contlex="Assoc-Coll">ведьгеменнест</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">веень кирда</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="QNT_">веень кирда</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="Adv">веенькирда</l>
      <stg>
        <st Contlex="QNT_">веень#кирда</st>
@@ -2268,6 +2301,51 @@
        <x>Эрьванень чиемс вейкетьстэ. Умартне явомсто весенень сатозт вейкетьстэ.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adv">вейксэненек</l>
+     <stg>
+       <st Contlex="Assoc-Coll">вейксэненек</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adv">вейксэненк</l>
+     <stg>
+       <st Contlex="Assoc-Coll">вейксэненк</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adv">вейксэнест</l>
+     <stg>
+       <st Contlex="Assoc-Coll">вейксэнест</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2528,11 +2606,14 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adv">верев</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st Contlex="ADV-SPAT_ALO">верев</st>
-     </stg>
+       <st Contlex="ADV-SPAT-IS-LAT">верев</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -2540,6 +2621,9 @@
      <semantics>
        <sem class="MORFAS"/>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">up</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Adv">ylös</t>
      </tg>
@@ -2549,47 +2633,6 @@
        <t pos="Adv">высоко</t>
      </tg>
      <defNative>Аволь алов</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
-   <map/>
-   <lg>
-     <l pos="Adv">верев 1</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st>верев 1</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="">x</t>
-     </tg>
-     <defNative>null</defNative>
-   </mg>
-</e>
-<e id="None" meta="">
-   <map/>
-   <lg>
-     <l pos="Adv">верев 2</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st>верев 2</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t>x</t>
-     </tg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2646,6 +2689,29 @@
      <defNative>null</defNative>
    </mg>
 </e>
+<e>
+   <map/>
+   <lg>
+     <l pos="Adv">весе</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">весе</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">entirely</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">kokonaan</t>
+     </tg>
+   </mg>
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="Adv">весемезэ</l>
@@ -2666,66 +2732,6 @@
      <l pos="Adv">вестешка</l>
      <stg>
        <st Contlex="QNT_">вестешка</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">ведьгеменнест</l>
-     <stg>
-       <st Contlex="Assoc-Coll">ведьгеменнест</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">вейксэненек</l>
-     <stg>
-       <st Contlex="Assoc-Coll">вейксэненек</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">вейксэненк</l>
-     <stg>
-       <st Contlex="Assoc-Coll">вейксэненк</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">вейксэнест</l>
-     <stg>
-       <st Contlex="Assoc-Coll">вейксэнест</st>
      </stg>
    </lg>
      <sources>
@@ -2803,6 +2809,21 @@
        <t pos="Adv">viidettä kertaa</t>
      </tg>
      <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adv">ветешканест</l>
+     <stg>
+       <st Contlex="Assoc-Coll">ветешканест</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -3378,8 +3399,8 @@
      </semantics>
      <defNative>Вал пелькс. Пештевемемс.</defNative>
      <xg>
-     <x>Доволь ярсынь умарде. Эйкакштнэ доволь ярсасть кашадо.</x>
-     <xt/>
+       <x>Доволь ярсынь умарде. Эйкакштнэ доволь ярсасть кашадо.</x>
+       <xt/>
      </xg>
    </mg>
 </e>
@@ -3933,22 +3954,53 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adv">зярдо-бути</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st Contlex="TEMP_">зярдо-бути</st>
-     </stg>
+       <st Contlex="ADV-INDEF-TEMP_">зярдо-бути</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="Adv">at one time</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">joskus</t>
+     </tg>
      <xg>
        <x>Те таркасонть сон пурнавсь келей ды сэрей сёлтокс, тесэ зярдо-бути ульнесь керень лопавтема эрьке.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e>
+   <map/>
+   <lg>
+     <l pos="Adv">зярдояк</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV-INDEF-TEMP_">зярдояк</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">ever</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">koskaan</t>
+     </tg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -4428,21 +4480,6 @@
        <x>Захар муизе нинзэ кеденть, саизе коморо потс, но Татьяна Михайловна ноцковтызе ды эцизе мирденть кавалалов.</x>
        <xt/>
      </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">ветешканест</l>
-     <stg>
-       <st Contlex="Assoc-Coll">ветешканест</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -5036,11 +5073,14 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adv">келя</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st Contlex="ADV_">келя</st>
-     </stg>
+       <st Contlex="ADV-EVID-NFH_">келя</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -5057,6 +5097,11 @@
        <t pos="Adv">молва</t>
        <t pos="Adv">мол</t>
      </tg>
+     <xg>
+       <x>Сон, келя, якась кинов. Тонь, келя, сайтядызь армияв. Сонзэ, келя, кучсызь тонавтнеме ошов.</x>
+       <xt/>
+     </xg>
+     <defNative>Кортамсто лездыця вал пелькс. Сон ламова полавты неть валтнэнь: ёвтасть, мерсть, невтсть.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -5076,6 +5121,24 @@
        <x>Кенкшесь тулодозь кемевиксстэ, вальмава лисемстэ неевлизе.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">кемень кирда</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="NUM_KUDO">кемень кирда</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -5479,27 +5542,38 @@
      <defNative>Налксема палкине, эряви клёксо налксемстэ.</defNative>
    </mg>
 </e>
-<e id="None" meta="">
+<e>
+   <map/>
    <lg>
      <l pos="Adv">ков</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="ADV-INTERR-IS-LAT">ков</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Pron">where</t>
+       <t pos="Pron">to where</t>
+       <t pos="Pron">whither</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Adv">minne</t>
        <t pos="Adv">mihin</t>
      </tg>
-     <defNative>I кевкстема вал молемадо, туемадо, кандомадо.</defNative>
+     <tg xml:lang="rus">
+       <t pos="Pron">куда</t>
+     </tg>
      <xg>
-       <x>Ков туят? Ков молят? Ков сайсак? Ков кандсак? Ков ветясак? Ков тейсак?</x>
-       <xt/>
+       <x src="">Ков туят? Ков молят? Ков сайсак? Ков кандсак? Ков ветясак? Ков тейсак?</x>
+       <xt xml:lang=""/>
      </xg>
+     <defNative>кевкстема вал молемадо, туемадо, кандомадо.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -5672,6 +5746,29 @@
      </xg>
    </mg>
 </e>
+<e>
+   <map/>
+   <lg>
+     <l pos="Adv">колияк</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV-INDEF-TEMP_">колияк</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">ever</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">koskaan</t>
+     </tg>
+   </mg>
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="Adv" type="Assoc">колмонек</l>
@@ -5751,6 +5848,21 @@
        <t pos="Num">kolmestaan</t>
        <t pos="Num">kolmistaan</t>
      </tg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adv">колмоньгирда</l>
+     <stg>
+       <st Contlex="NUM_KUDO">колмоньгирда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -6682,22 +6794,25 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adv">лангс</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="Spat_">лангс</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative/>
      <xg>
        <x>лангс ваномс</x>
        <xt/>
      </xg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
