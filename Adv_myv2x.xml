@@ -650,7 +650,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">аламо</l>
+     <l pos="Det">аламо</l>
      <etymology> <etym xml:lang="myv"> <constituent>а+ламо</constituent> </etym>
      </etymology>
      <stg>
@@ -6622,7 +6622,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">ламо</l>
+     <l pos="Det">ламо</l>
      <stg>
        <st Contlex="DET_LAMO">ламо</st>
      </stg>
@@ -6633,7 +6633,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fra">
-       <t pos="Adv">beaucoup</t>
+       <t pos="Det">beaucoup</t>
      </tg>
      <defNative>Аволь вейке. Вейкеде седе ламо. Нилесь кавтотнень коряс седе ламо, котось ниленть коряс ламо. Ламочись свал чарькодеви ансяк лиятнень ваксс путозь.</defNative>
      <xg>
@@ -6730,9 +6730,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">ламоньгирда</l>
+     <l pos="Adv">ламонькирда</l>
      <stg>
-       <st Contlex="QNT_">ламоньгирда</st>
+       <st Contlex="QNT_">ламонькирда</st>
      </stg>
    </lg>
      <sources>
@@ -8533,7 +8533,7 @@
    <lg>
      <l pos="Adv">нинге</l>
      <stg>
-       <st Contlex="ITER_">нинге</st>
+       <st Contlex="ADV-TEMP_">нинге</st>
      </stg>
    </lg>
      <sources>
@@ -8727,7 +8727,7 @@
    <lg>
      <l pos="Adv">одс</l>
      <stg>
-       <st Contlex="ITER_">одс</st>
+       <st Contlex="ADV-TEMP_">одс</st>
      </stg>
    </lg>
      <sources>
@@ -9000,9 +9000,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">омбоньгирда</l>
+     <l pos="Adv">омбонькирда</l>
      <stg>
-       <st Contlex="QNT_">омбоньгирда</st>
+       <st Contlex="ADV-TEMP_">омбонькирда</st>
      </stg>
    </lg>
      <sources>
@@ -9010,9 +9010,9 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative>Кавтоньгирда.</defNative>
+     <defNative>Кавтонькирда.</defNative>
      <xg>
-       <x>Пельдемс суре омбоньгирда. Ютамс велесь омбоньгирда, ялатеке мезеяк а муемс. Сокамс омбоньгирда. Изамс омбоньгирда. Коцт песь мендямс омбоньгирда. Стамс омбоньгирда.</x>
+       <x>Пельдемс суре омбонькирда. Ютамс велесь омбонькирда, ялатеке мезеяк а муемс. Сокамс омбонькирда. Изамс омбонькирда. Коцт песь мендямс омбонькирда. Стамс омбонькирда.</x>
        <xt/>
      </xg>
    </mg>
@@ -9138,7 +9138,7 @@
    <lg>
      <l pos="Adv">оштё</l>
      <stg>
-       <st Contlex="ITER_">оштё</st>
+       <st Contlex="ADV-TEMP_">оштё</st>
      </stg>
    </lg>
      <sources>
