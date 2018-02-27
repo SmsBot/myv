@@ -74,45 +74,57 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e>
+   <map/>
    <lg>
      <l pos="Num">ве</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="NUM-ADN">ве</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Num">one</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Num">yksi</t>
      </tg>
-     <defNative>I 1) Вейке. Явови смустень коряс «вейке» валонть эйстэ ─ а аравтови карадо-каршо «кавто» валонть марто.</defNative>
+     <tg xml:lang="fra">
+       <t pos="Num">un</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">один</t>
+     </tg>
      <xg>
        <x>Ве ломанесь мезеяк а теи, эряви весенень вейсэ. Ве чис те книгась а ловнови.</x>
        <xt/>
      </xg>
+     <defNative>I 1) Вейке. Явови смустень коряс «вейке» валонть эйстэ ─ а аравтови карадо-каршо «кавто» валонть марто.</defNative>
    </mg>
    <mg relId="1">
      <semantics>
      </semantics>
      <tg xml:lang="eng">
-       <t pos="Adv">alone</t>
+       <t pos="Qnt">alone</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">vain</t>
+       <t pos="Qnt">vain</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="Adv">только</t>
-       <t pos="Adv">издалека</t>
+       <t pos="Qnt">только</t>
+       <t pos="Qnt">издалека</t>
      </tg>
-     <defNative>Ськамон, ськамот, ськамонзо…</defNative>
      <xg>
        <x>Вазонть ваномо якан ве мон.</x>
        <xt/>
      </xg>
+     <defNative>Ськамон, ськамот, ськамонзо…</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -147,18 +159,30 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Num">ведьгемень</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="NUM_KAL">ведьгемень</st>
        <st Contlex="NUM_KAL">ветенькемень</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Num">fifty</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">viisikymmentä</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Num">cinquante</t>
+     </tg>
      <defNative>Ловома вал, невти вете кементь. Кеменесь саезь ветексть. Лиякс пель сядо.</defNative>
    </mg>
 </e>
@@ -211,6 +235,22 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <lg>
+     <l pos="Num">вейке-вейке</l>
+     <stg>
+       <st Contlex="QNT-DISTR">вейке-вейке</st>
+       <st Contlex="QNT-DISTR">вейте-вейте</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Аволь вейсэ, башка.</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
    <map/>
    <lg>
      <l pos="Num">вейкине</l>
@@ -233,6 +273,7 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Num">вейксэ</l>
      <etymology>
@@ -240,7 +281,7 @@
      </etymology>
      <stg>
        <st Contlex="NUM_KUDO">вейксэ</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
        <book name="Olga01"/>
@@ -254,6 +295,9 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="Num">yhdeksän</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Num">neuf</t>
      </tg>
      <defNative>Ловомавал. Колмоксть колмо.</defNative>
    </mg>
@@ -351,6 +395,15 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Num">ninehundred</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">yhdeksänsataa</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Num">neuf cent</t>
+     </tg>
      <defNative>null</defNative>
    </mg>
 </e>
@@ -464,21 +517,27 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Num">ветексть</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="ITER_">ветексть</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="Qnt">viisi kertaa</t>
+     <tg xml:lang="eng">
+       <t pos="Adv">five times</t>
      </tg>
-     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">viisi kertaa</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -527,18 +586,30 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Num">ветесядт</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="NUM_SJADO">ветесяд</st>
-     </stg> <lsub>ветесядот</lsub>
+     </stg> <compg> </compg> <lsub>ветесядот</lsub>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="Num">five hundred</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">viisi sata</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Num">cinq cent</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -584,18 +655,27 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Num">ветешка</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="QNT_">ветешка</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="Num">about five</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">noin viisi</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -794,22 +874,25 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Num">зяро</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="DET_LAMO">зяро</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative>Шкань кевкстема.</defNative>
      <xg>
        <x>Зяро шкас пачкодемс велентень? Зяро шка юты тевенть прядомс? Зяро шка эряви теть книганть ловномс? Зяро шкась (зняро част)?</x>
        <xt/>
      </xg>
+     <defNative>Шкань кевкстема.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -835,6 +918,7 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Num">кавксо</l>
      <etymology>
@@ -842,7 +926,7 @@
      </etymology>
      <stg>
        <st Contlex="NUM_KUDO">кавксо</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
        <book name="Olga01"/>
@@ -856,6 +940,9 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="Num">kahdeksan</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Num">huit</t>
      </tg>
      <defNative>Ловомавал. Кавксть ниле.</defNative>
    </mg>
@@ -987,26 +1074,38 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Num">кавксть</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="ITER_">кавксть</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="Num">kahdesti</t>
-       <t pos="Num">kaksi kertaa</t>
+     <tg xml:lang="eng">
+       <t pos="Adv">twice</t>
      </tg>
-     <defNative>Кавтоксть. Невти зняроксть теезь мезеськак.</defNative>
+     <tg xml:lang="fin">
+       <t pos="Adv">kahdesti</t>
+       <t pos="Adv">kaksi kertaa</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Adv">deux fois</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">дважды</t>
+     </tg>
      <xg>
        <x>Кавксть якинь тов. Те книганть ловныя кавксть.</x>
        <xt/>
      </xg>
+     <defNative>Кавтоксть. Невти зняроксть теезь мезеськак.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -1177,24 +1276,6 @@
        <x>Кавто ломанть. Кавто книгат. Эйкакшонтень топодсть кавто иеть. Авась стась кавто панарт.</x>
        <xt/>
      </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Num">кавто кементь</l>
-     <stg>
-       <st Contlex="NUM_">кавто кементь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t>x</t>
-     </tg>
-     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -1706,22 +1787,34 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Num">кодгемень</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="NUM_KAL">кодгемень</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative>Ловома вал. Котось кеменьксть.</defNative>
+     <tg xml:lang="eng">
+       <t pos="Num">sixty</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">kuusi kymmentä</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Num">soixante</t>
+     </tg>
      <xg>
        <x>Покштянень топодсть кодгемень иеть. Кодгемень чить араселинь кудосо.</x>
        <xt/>
      </xg>
+     <defNative>Ловома вал. Котось кеменьксть.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -3347,6 +3440,29 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <lg>
+     <l pos="Num">сисемзядт</l>
+     <stg>
+       <st Contlex="NUM_SJADO">сисемзяд</st>
+       <st Contlex="NUM_SJADO" status="Err/Orth">сисемсяд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num">seitsemänsataa</t>
+     </tg>
+     <defNative>Ловома вал. Сядось сисемексть.</defNative>
+     <xg>
+       <x>Минек велесэ ульнесть сисемсядт кудот, ней кадовсть сядо.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
    <map/>
    <lg>
      <l pos="Num">сисемненек</l>
@@ -3404,12 +3520,15 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
-     <l pos="Num">сисемзядт</l>
+     <l pos="Num">сисемсядт</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="NUM_SJADO">сисемзяд</st>
        <st Contlex="NUM_SJADO" status="Err/Orth">сисемсяд</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -3419,11 +3538,11 @@
      <tg xml:lang="fin">
        <t pos="Num">seitsemänsataa</t>
      </tg>
-     <defNative>Ловома вал. Сядось сисемексть.</defNative>
      <xg>
        <x>Минек велесэ ульнесть сисемсядт кудот, ней кадовсть сядо.</x>
        <xt/>
      </xg>
+     <defNative>Ловома вал. Сядось сисемексть.</defNative>
    </mg>
 </e>
 <e id="None" meta="">

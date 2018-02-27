@@ -650,7 +650,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Det">аламо</l>
+     <l pos="Adv">аламо</l>
      <etymology> <etym xml:lang="myv"> <constituent>а+ламо</constituent> </etym>
      </etymology>
      <stg>
@@ -1257,7 +1257,7 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">башка</l>
-     <etymology> <etym xml:lang="tat">башкалия</etym>
+     <etymology> <cognate pos="A" xml:lang="tat" myv="лия">башка</cognate>
      </etymology>
      <stg>
        <st Contlex="ADV_">башка</st>
@@ -4004,22 +4004,31 @@
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l pos="Adv">зяро</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="DET_LAMO">зяро</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative>Шкань кевкстема.</defNative>
+     <tg xml:lang="eng">
+       <t pos="Adv">how many</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">kuinka paljon</t>
+     </tg>
      <xg>
        <x>Зяро шкас пачкодемс велентень? Зяро шка юты тевенть прядомс? Зяро шка эряви теть книганть ловномс? Зяро шкась (зняро част)?</x>
        <xt/>
      </xg>
+     <defNative>Шкань кевкстема.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -4835,6 +4844,10 @@
      <stg>
        <st Contlex="ADV-SPAT_karsho">каршо</st>
      </stg>
+          <etymology>
+       <cognate pos="Adv" xml:lang="tat">каршы</cognate>
+     </etymology>
+
    </lg>
      <sources>
      </sources>
@@ -6622,28 +6635,6 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Det">ламо</l>
-     <stg>
-       <st Contlex="DET_LAMO">ламо</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fra">
-       <t pos="Det">beaucoup</t>
-     </tg>
-     <defNative>Аволь вейке. Вейкеде седе ламо. Нилесь кавтотнень коряс седе ламо, котось ниленть коряс ламо. Ламочись свал чарькодеви ансяк лиятнень ваксс путозь.</defNative>
-     <xg>
-       <x>Вирьсэ ламо чувтт. Велесэнть ламо кудот, ошсо кудотне седеяк ламо.</x>
-       <xt/>
-     </xg>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
      <l pos="Adv">ламоксть</l>
      <stg>
        <st Contlex="ITER_">ламоксть</st>
@@ -6726,6 +6717,33 @@
        <x>Кандтнемстэ олгтнэнь сайнинек ламонь-ламонь. Эрьвась кандтнесь ламонь-ламонь. Умартнень явомсто эрьванень сатотсть ламонь-ламонь.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">ламоньгирда</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="QNT_">ламоньгирда</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Мезеськак саезь ламоксть. Путнезь ламоксть.</defNative>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <xg>
+       <x>Пиксэсь поназь ламоньгирда. Суресь пельдезь ламоньгирда. Коцтось ацазь ламоньгирда.</x>
+       <xt/>
+     </xg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -9000,9 +9018,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">омбонькирда</l>
+     <l pos="Adv">омбоньгирда</l>
      <stg>
-       <st Contlex="ADV-TEMP_">омбонькирда</st>
+       <st Contlex="QNT_">омбоньгирда</st>
      </stg>
    </lg>
      <sources>
@@ -9010,11 +9028,33 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative>Кавтонькирда.</defNative>
+     <defNative>Кавтоньгирда.</defNative>
+     <xg>
+       <x>Пельдемс суре омбоньгирда. Ютамс велесь омбоньгирда, ялатеке мезеяк а муемс. Сокамс омбоньгирда. Изамс омбоньгирда. Коцт песь мендямс омбоньгирда. Стамс омбоньгирда.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">омбонькирда</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV-TEMP_">омбонькирда</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <xg>
        <x>Пельдемс суре омбонькирда. Ютамс велесь омбонькирда, ялатеке мезеяк а муемс. Сокамс омбонькирда. Изамс омбонькирда. Коцт песь мендямс омбонькирда. Стамс омбонькирда.</x>
        <xt/>
      </xg>
+     <defNative>Кавтонькирда.</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -9383,6 +9423,10 @@
      <stg>
        <st Contlex="ADV_">пек</st>
      </stg>
+     <etymology>
+       <cognate pos="Adv" xml:lang="mdf">пяк</cognate>
+       <cognate pos="Adv" xml:lang="tat">бик</cognate>
+     </etymology>
    </lg>
      <sources>
      </sources>

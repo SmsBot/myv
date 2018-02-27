@@ -22,6 +22,34 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="Det">аламо</l>
+     <etymology> <etym xml:lang="myv"> <constituent>а+ламо</constituent> </etym>
+     </etymology>
+     <stg>
+       <st Contlex="DET_LAMO">аламо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fra">
+       <t pos="Adv">peu</t>
+     </tg>
+     <defNative>Аволь ламо. Те валонть чарькодемазо вельть келей. Эрьва мезесь лиянь коряс эрси аламо эли ламо. Аламось чарькодеви ансяк сестэ, зярдо путови лиянь ваксс.</defNative>
+     <xg>
+       <x>Кото умартне кементнень коряс аламо, колмотнень коряс ламо.</x>
+       <xt/>
+     </xg>
+     <xg>
+       <x>Видметнеде аламо, уманть видемс а сатыть.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="Det" type="Qnt">аламошка</l>
      <stg>
        <st Contlex="DET_LAMO">аламошка</st>
@@ -303,6 +331,28 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="Det">ламо</l>
+     <stg>
+       <st Contlex="DET_LAMO">ламо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fra">
+       <t pos="Det">beaucoup</t>
+     </tg>
+     <defNative>Аволь вейке. Вейкеде седе ламо. Нилесь кавтотнень коряс седе ламо, котось ниленть коряс ламо. Ламочись свал чарькодеви ансяк лиятнень ваксс путозь.</defNative>
+     <xg>
+       <x>Вирьсэ ламо чувтт. Велесэнть ламо кудот, ошсо кудотне седеяк ламо.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="Det">лия</l>
      <stg>
        <st Contlex="DET_KUDO">лия</st>
@@ -326,28 +376,6 @@
      </xg>
    </mg>
 </e>
-<e>
-   <map/>
-   <lg>
-     <l pos="Det">омбо</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="QNT_">омбо</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <xg>
-       <x>Омбо мастор. Омбо велень ломань. Туевинь омбо киява. Паксянь омбо песэ.</x>
-       <xt/>
-     </xg>
-     <defNative>(а полавтневи) Лия, омбоце, тона.</defNative>
-   </mg>
-</e>
 <e id="None" meta="">
    <map/>
    <lg>
@@ -355,7 +383,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="QNT_">омбо</st>
+       <st Contlex="DET-ADN">омбо</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -586,6 +614,21 @@
        <x>Эрьва чистэ якан магазинэв. Эрьва ломанесь косояк ды роботы. Эрьва чинь сакшныця. Эрьва косто. Эрьва мезестэ. Эрьва мезень. Эрьва велень. Эрьва ошонь. Эрьва недлясто якан ошов. Эрьва оймсема чистэ яксян пирев. Эрьва сакшномсто кодамояк налкшке кандсь.</x>
        <xt/>
      </xg>
+   </mg>
+</e>
+<e exclude="fst" id="None" meta="">
+   <lg>
+     <l pos="Det">лиятне</l>
+     <stg>
+       <st Contlex="QNT_">лиятне</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Аволь нетне.</defNative>
    </mg>
 </e>
 </r> 
