@@ -64916,7 +64916,17 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="A">ontto</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="A">дуплистый</t>
+     </tg>
+     <defNative>Ундо марто чувто.</defNative>
+     <xg>
+       <x>Ундов пекше. Ундов каль. Сыре чувттнэ ламот ундовт.</x>
+       <xt/>
+     </xg>
    </mg>
 </e>
 <e id="None" meta="">
