@@ -1773,6 +1773,9 @@
      <tg xml:lang="fin">
        <t pos="Adv">aamulla</t>
      </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">утром</t>
+     </tg>
      <defNative>Чинь ушодома. Валске марто.</defNative>
      <xg>
        <x>Те валске молян паксяв.</x>
@@ -1785,6 +1788,9 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="Adv">huomenna</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">завтра</t>
      </tg>
      <defNative>Ванды. Омбоце чистэ. Аволь течи.</defNative>
      <xg>
