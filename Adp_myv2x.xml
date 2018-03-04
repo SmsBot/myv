@@ -1021,6 +1021,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adp">трокс</l>
+     <etymology>
+  <etymon ilmentyma_id="191483" algu_lekseemi_id="68388" xml_lang="myv">трокс</etymon>
+</etymology>
      <stg>
        <st Contlex="POSTP_">трокс</st>
      </stg>
@@ -1069,10 +1072,11 @@
    <lg>
      <l pos="Adp">туро</l>
      <etymology>
+       <etymon ilmentyma_id="191530" algu_lekseemi_id="68402" xml_lang="myv">туро</etymon>
      </etymology>
      <stg>
        <st Contlex="POSTP_">туро</st>
-     </stg> <compg> </compg>
+     </stg>
    </lg>
      <sources>
      </sources>

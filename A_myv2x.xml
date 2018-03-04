@@ -11404,6 +11404,7 @@
    <lg>
      <l pos="A">вишка</l>
      <etymology> <etym xml:lang="est"> <constituent>väike</constituent> </etym>
+<etymon ilmentyma_id="289235" algu_lekseemi_id="97963" xml_lang="myv">веж-</etymon>
      </etymology>
      <stg>
        <st Contlex="A_KUDO">вишка</st>
@@ -19226,6 +19227,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">ине</l>
+<etymology>
+  <etymon ilmentyma_id="289113" algu_lekseemi_id="76681" xml_lang="myv">ине</etymon>
+</etymology>
      <stg>
        <st Contlex="A_KUDO">ине</st>
      </stg>
@@ -24356,6 +24360,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">кодамо</l>
+     <etymology>
+  <etymon ilmentyma_id="289226" algu_lekseemi_id="96625" xml_lang="myv">кодамо</etymon>
+</etymology>
      <stg>
        <st Contlex="A-IS-INTERR/REL-ADJ_KODAMO">кода</st>
      </stg>
@@ -30930,6 +30937,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">мазый</l>
+<etymology>
+  <etymon ilmentyma_id="289138" algu_lekseemi_id="78490" xml_lang="myv">мазый</etymon>
+</etymology>
      <stg>
        <st Contlex="A_KAL">мазый</st>
      </stg>
@@ -31394,6 +31404,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">маней</l>
+<etymology>
+  <etymon ilmentyma_id="289140" algu_lekseemi_id="78503" xml_lang="myv">маней</etymon>
+</etymology>
      <stg>
        <st Contlex="A_KAL">маней</st>
      </stg>
@@ -35565,6 +35578,7 @@
    <lg>
      <l pos="A">начко</l>
      <etymology>
+  <etymon ilmentyma_id="289159" algu_lekseemi_id="79254" xml_lang="myv">начко</etymon>
      </etymology>
      <stg>
        <st Contlex="A_PANGO">начк</st>
@@ -38545,6 +38559,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">од</l>
+<etymology>
+  <etymon ilmentyma_id="289174" algu_lekseemi_id="80261" xml_lang="myv">од</etymon>
+</etymology>
      <stg>
        <st Contlex="A_KAL">од</st>
      </stg>
@@ -53490,6 +53507,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">сееде</l>
+     <etymology>
+  <etymon ilmentyma_id="191823" algu_lekseemi_id="68489" xml_lang="myv">сееде</etymon>
+</etymology>
      <stg>
        <st Contlex="A_TINGE">сеед</st>
      </stg>
@@ -71916,6 +71936,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">экше</l>
+<etymology>
+  <etymon ilmentyma_id="289112" algu_lekseemi_id="76624" xml_lang="myv">экше</etymon>
+</etymology>
      <stg>
        <st Contlex="A_TINGE">экш</st>
      </stg>
@@ -73759,6 +73782,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="A">якшамо</l>
+<etymology>
+  <etymon ilmentyma_id="289119" algu_lekseemi_id="77060" xml_lang="myv">якшамо</etymon>
+</etymology>
      <stg>
        <st Contlex="A_KUDO">якшамо</st>
      </stg>

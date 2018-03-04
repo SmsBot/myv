@@ -2,6 +2,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Pcle">а</l>
+     <etymology>
+  <etymon ilmentyma_id="289108" algu_lekseemi_id="76478" xml_lang="myv">а</etymon>
+</etymology>
      <stg>
        <st Contlex="PCLE-NEG">а</st>
      </stg>

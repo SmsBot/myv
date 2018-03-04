@@ -2039,6 +2039,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">васня</l>
+<etymology>
+  <etymon ilmentyma_id="289217" algu_lekseemi_id="82008" xml_lang="myv">васня</etymon>
+</etymology>
      <stg>
        <st Contlex="ADV-TEMP_">васня</st>
      </stg>
@@ -2570,6 +2573,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">верде</l>
+     <etymology>
+  <etymon ilmentyma_id="249281" algu_lekseemi_id="83216" xml_lang="myv">верде</etymon>
+</etymology>
      <stg>
        <st Contlex="ADV-SPAT_ALO">верде</st>
      </stg>
@@ -2589,6 +2595,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">вере</l>
+     <etymology>
+  <etymon ilmentyma_id="192120" algu_lekseemi_id="68589" xml_lang="myv">вере</etymon>
+</etymology>
      <stg>
        <st Contlex="ADV-SPAT_ALO">верь</st>
      </stg>
@@ -5683,6 +5692,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">кода</l>
+<etymology>
+  <etymon ilmentyma_id="289229" algu_lekseemi_id="96628" xml_lang="myv">кода</etymon>
+</etymology>
      <stg>
        <st Contlex="ADV-IS-INTERR-MANNER">кода</st>
      </stg>
@@ -6033,6 +6045,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">косо</l>
+<etymology>
+  <etymon ilmentyma_id="289228" algu_lekseemi_id="96627" xml_lang="myv">косо</etymon>
+</etymology>
      <stg>
        <st Contlex="ADV-INTERR-IS-SPAT-INE">косо</st>
      </stg>
@@ -7784,6 +7799,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">мейле</l>
+<etymology>
+  <etymon ilmentyma_id="289132" algu_lekseemi_id="78408" xml_lang="myv">мейле</etymon>
+</etymology>
      <stg>
        <st Contlex="ADV-TEMP_KUDO">мейле</st>
      </stg>
@@ -7836,6 +7854,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">мекев</l>
+<etymology>
+  <etymon ilmentyma_id="289133" algu_lekseemi_id="78411" xml_lang="myv">мекев</etymon>
+</etymology>
      <stg>
        <st Contlex="Spat_">мекев</st>
      </stg>
@@ -12602,6 +12623,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Adv">умок</l>
+<etymology>
+  <etymon ilmentyma_id="289166" algu_lekseemi_id="79942" xml_lang="myv">умок</etymon>
+</etymology>
      <stg>
        <st Contlex="ADV-TEMP_LAK">умок</st>
      </stg>
@@ -14432,6 +14456,7 @@
    <lg>
      <l pos="Adv">ялго</l>
      <etymology>
+  <etymon ilmentyma_id="289116" algu_lekseemi_id="76859" xml_lang="myv">ялго</etymon>
      </etymology>
      <stg>
        <st Contlex="PRED2-SUBJ_KUDO">ялго</st>

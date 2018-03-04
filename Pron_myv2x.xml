@@ -619,6 +619,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Pron">мезе</l>
+<etymology>
+  <etymon ilmentyma_id="289232" algu_lekseemi_id="97653" xml_lang="myv">мезе</etymon>
+</etymology>
      <stg>
        <st Contlex="PRON-INTERR-OBJ_MEZE">мезе</st>
      </stg>
@@ -1109,6 +1112,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Pron">минь</l>
+<etymology>
+  <etymon ilmentyma_id="289130" algu_lekseemi_id="78375" xml_lang="myv">минь</etymon>
+</etymology>
      <stg>
        <st Contlex="PRON-PERS-PL1">ми</st>
      </stg>
@@ -1143,6 +1149,7 @@
    <lg>
      <l pos="Pron" type="Pers">мон</l>
      <etymology>
+  <etymon ilmentyma_id="289129" algu_lekseemi_id="78365" xml_lang="myv">мон</etymon>
      </etymology>
      <stg>
        <st Contlex="PRON-PERS-SG1">мо</st>
@@ -1440,6 +1447,7 @@
    <lg>
      <l pos="Pron" type="Dem">се</l>
      <etymology>
+  <etymon ilmentyma_id="289234" algu_lekseemi_id="97788" xml_lang="myv">се</etymon>
      </etymology>
      <stg>
        <st Contlex="DET-DEM_TE">се</st>
@@ -1546,6 +1554,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Pron">сон</l>
+<etymology>
+  <etymon ilmentyma_id="289196" algu_lekseemi_id="81578" xml_lang="myv">сон</etymon>
+</etymology>
      <stg>
        <st Contlex="PRON-PERS-SG3">со</st>
      </stg>
@@ -1987,6 +1998,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Pron" type="Dem">те</l>
+<etymology>
+  <etymon ilmentyma_id="289219" algu_lekseemi_id="95207" xml_lang="myv">те</etymon>
+</etymology>
      <stg>
        <st Contlex="PRON-DEM_TE">те</st>
      </stg>
@@ -2226,6 +2240,7 @@
    <lg>
      <l pos="Pron">тон</l>
      <etymology>
+  <etymon ilmentyma_id="289065" algu_lekseemi_id="72164" xml_lang="myv">тон</etymon>
      </etymology>
      <stg>
        <st Contlex="PRON-PERS-SG2">то</st>
@@ -2454,6 +2469,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Pron">тынь</l>
+     <etymology>
+  <etymon ilmentyma_id="289066" algu_lekseemi_id="72172" xml_lang="myv">тынь</etymon>
+</etymology>
      <stg>
        <st Contlex="PRON-PERS-PL2">ты</st>
      </stg>
@@ -2951,6 +2969,9 @@
 <e id="None" meta="">
    <lg>
      <l pos="Pron">эсь</l>
+<etymology>
+  <etymon ilmentyma_id="289111" algu_lekseemi_id="76560" xml_lang="myv">эсь</etymon>
+</etymology>
      <stg>
        <st Contlex="PRON-REFL_E2S1">эсь</st>
      </stg>
