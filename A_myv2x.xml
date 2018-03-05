@@ -15973,7 +15973,7 @@
      <defNative/>
      <xg>
        <x>доплатной сёрма</x>
-       <xt>jälkimaksettava kirje</xt>
+       <xt xml:lang="fin">jälkimaksettava kirje</xt>
      </xg>
    </mg>
 </e>
@@ -41363,11 +41363,11 @@
      </xg>
      <xg>
        <x>седе napo</x>
-       <xt>parempi</xt>
+       <xt xml:lang="fin">parempi</xt>
      </xg>
      <xg>
        <x>cexте napo</x>
-       <xt>paras</xt>
+       <xt xml:lang="fin">paras</xt>
      </xg>
    </mg>
 </e>
