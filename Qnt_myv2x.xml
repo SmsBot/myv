@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
-<e id="None" meta="">
-   <lg>
-     <l pos="Qnt">омбоньгирда</l>
-     <stg>
-       <st Contlex="QNT_">омбоньгирда</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative>Кавтоньгирда.</defNative>
-     <xg>
-       <x>Пельдемс суре омбоньгирда. Ютамс велесь омбоньгирда, ялатеке мезеяк а муемс. Сокамс омбоньгирда. Изамс омбоньгирда. Коцт песь мендямс омбоньгирда. Стамс омбоньгирда.</x>
-       <xt/>
-     </xg>
-   </mg>
-</e>
-</r> 
+<?xml version="1.0" ?>
+<r xml:lang="myv" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+	<e id="None" meta="">
+		<lg>
+			<l pos="Qnt">омбоньгирда</l>
+			<stg>
+				<st Contlex="QNT_">омбоньгирда</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<defNative>Кавтоньгирда.</defNative>
+			<xg>
+				<x>Пельдемс суре омбоньгирда. Ютамс велесь омбоньгирда, ялатеке мезеяк а муемс. Сокамс омбоньгирда. Изамс омбоньгирда. Коцт песь мендямс омбоньгирда. Стамс омбоньгирда.</x>
+				<xt/>
+			</xg>
+		</mg>
+	</e>
+</r>
