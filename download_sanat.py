@@ -2,7 +2,7 @@
 import codecs, os, glob, subprocess, requests
 import xml.dom.minidom
 
-language = "fin"
+language = "myv"
 
 def pretty_xml(input_file, output_file):
 	in_f = open(input_file, "r")
