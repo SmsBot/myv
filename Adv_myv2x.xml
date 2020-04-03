@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="myv">
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а васоло</l>
      <stg>
@@ -17,7 +17,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а вейкетьстэ</l>
      <stg>
@@ -36,7 +36,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а весть</l>
      <stg>
@@ -55,7 +55,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а видестэ</l>
      <stg>
@@ -70,7 +70,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а иредезь</l>
      <stg>
@@ -88,7 +88,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а иредьстэ</l>
      <stg>
@@ -106,7 +106,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а истя</l>
      <stg>
@@ -124,7 +124,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а истяня</l>
      <stg>
@@ -142,7 +142,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а каш-а куш</l>
      <stg>
@@ -161,7 +161,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а кувать</l>
      <stg>
@@ -180,7 +180,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а курок</l>
      <stg>
@@ -195,7 +195,7 @@
      <defNative>Шкань таргсезь.</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а куш а каш</l>
      <stg>
@@ -214,7 +214,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а ладсо</l>
      <stg>
@@ -233,7 +233,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а мезть теемадо</l>
      <stg>
@@ -252,7 +252,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а мельсэ</l>
      <stg>
@@ -270,7 +270,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а умок</l>
      <stg>
@@ -289,7 +289,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">а шкастонзо</l>
      <stg>
@@ -405,7 +405,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">аволь - уволь</l>
      <stg>
@@ -423,7 +423,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">аволь - уволь</l>
      <stg>
@@ -441,7 +441,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">аволь иредьстэ</l>
      <stg>
@@ -474,7 +474,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">авцор</l>
@@ -493,26 +493,6 @@
        <t pos="Adv">неуклюже</t>
      </tg>
      <defNative>null</defNative>
-   </mg>
-</e>
-<e>
-   <map/>
-   <lg>
-     <l pos="Adv">авцорк</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="ADV_">авцорк</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="rus">
-       <t pos="Adv">неуклюже</t>
-     </tg>
    </mg>
 </e>
 <e meta="" id="None">
@@ -626,7 +606,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">ал ой иль</l>
@@ -918,7 +898,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">алкукс ладсо</l>
@@ -1022,7 +1002,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">алов ведть</l>
      <stg>
@@ -1059,7 +1039,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">алякс</l>
      <stg>
@@ -1095,7 +1075,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">амельсэ</l>
      <stg>
@@ -1115,7 +1095,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">ангорсо</l>
      <stg>
@@ -1164,7 +1144,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">апак иреде</l>
      <stg>
@@ -1556,7 +1536,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">важонь апак путо</l>
      <stg>
@@ -1590,7 +1570,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">вайгелень апак кепеде</l>
      <stg>
@@ -1605,7 +1585,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">вайгелень апак нолда</l>
      <stg>
@@ -1731,7 +1711,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">валонь апак пандо</l>
      <stg>
@@ -1746,7 +1726,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">валонь апак прядо</l>
      <stg>
@@ -1761,7 +1741,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">валонь апак пупордя</l>
      <stg>
@@ -1776,7 +1756,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">валонь апак учо</l>
      <stg>
@@ -1791,7 +1771,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">валонь апак ёвта</l>
      <stg>
@@ -1848,7 +1828,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">валске марто</l>
      <stg>
@@ -1980,7 +1960,7 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">вандыде мейле</l>
      <stg>
@@ -2017,7 +1997,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">вановтонь апак сае</l>
      <stg>
@@ -2131,7 +2111,7 @@
      <tg xml:lang="fin">
        <t pos="Adv">ensinnäkin</t>
      </tg>
-       <semRel semRelType="confer" lemmaID="васень"/>
+       <semRel lemmaID="васень" semRelType="confer"/>
      <defNative/>
    </mg>
 </e>
@@ -2255,7 +2235,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">ве шкане</l>
      <stg>
@@ -2274,7 +2254,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">веень кирда</l>
@@ -2390,7 +2370,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">вейсэ рангстазь</l>
      <stg>
@@ -2420,7 +2400,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-       <semRel semRelType="see" lemmaID="вейке"/>
+       <semRel lemmaID="вейке" semRelType="see"/>
      <defNative/>
    </mg>
 </e>
@@ -2672,7 +2652,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">верьде верьс</l>
@@ -2693,7 +2673,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">весе</l>
@@ -2785,7 +2765,7 @@
      <defNative>Теемс эрьва мезесь седей-мелень путозь. Кортамс ломантнень марто вечкевксстэ.</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">виде мельсэ</l>
      <stg>
@@ -2838,7 +2818,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">видечинь пев</l>
@@ -2986,7 +2966,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">виень апак вансто</l>
      <stg>
@@ -3001,7 +2981,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">виень апак жаля</l>
      <stg>
@@ -3016,7 +2996,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">виень апак путо</l>
      <stg>
@@ -3031,7 +3011,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">виень маштомс</l>
      <stg>
@@ -3046,7 +3026,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">визьксэнь апак сода</l>
      <stg>
@@ -3076,7 +3056,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">вить ёнов</l>
@@ -3204,8 +3184,8 @@
      </sources>
    <mg relId="0">
      <semantics>
-       <sem semRelType="seeNative" lemmaID="пандо алов" class=""/>
-       <sem semRelType="seeNative" lemmaID="аловпандт" class=""/>
+       <sem lemmaID="пандо алов" semRelType="seeNative" class=""/>
+       <sem lemmaID="аловпандт" semRelType="seeNative" class=""/>
      </semantics>
      <defNative/>
    </mg>
@@ -3539,7 +3519,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-       <semRel semRelType="see" lemmaID="шольсэ"/>
+       <semRel lemmaID="шольсэ" semRelType="see"/>
      <defNative/>
    </mg>
 </e>
@@ -3562,7 +3542,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">знярдо -а знярдо</l>
      <stg>
@@ -3860,7 +3840,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">зыяндо оргодезь</l>
      <stg>
@@ -3947,7 +3927,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">зярдояк</l>
@@ -4336,7 +4316,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">истямо ладсо</l>
      <stg>
@@ -4510,7 +4490,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">кавто пецек</l>
      <stg>
@@ -4773,7 +4753,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">каршо пельде</l>
      <stg>
@@ -4791,7 +4771,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">каршо ёндо</l>
      <stg>
@@ -4809,7 +4789,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">каршо ёно</l>
      <stg>
@@ -4827,7 +4807,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">каршо ёнсто</l>
      <stg>
@@ -4894,7 +4874,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">кедень апак венстя</l>
      <stg>
@@ -4909,7 +4889,7 @@
      <defNative>кедень апак максо</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">кедень апак максо</l>
      <stg>
@@ -4979,7 +4959,7 @@
      <defNative>Валмельгакс. Кулясь тусь масторонь келес.</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">кельме прась</l>
      <stg>
@@ -5048,7 +5028,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">кемень кирда</l>
@@ -5129,7 +5109,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">керш пеле</l>
@@ -5150,7 +5130,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">керш пелев</l>
@@ -5171,7 +5151,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">керш пельга</l>
@@ -5192,7 +5172,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">керш ёнга</l>
@@ -5213,7 +5193,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">керш ёндо</l>
@@ -5234,7 +5214,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">керш ёно</l>
@@ -5255,7 +5235,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">керш ёнов</l>
@@ -5467,7 +5447,7 @@
      <defNative>Налксема палкине, эряви клёксо налксемстэ.</defNative>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">ков</l>
@@ -5739,7 +5719,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">колияк</l>
@@ -5887,7 +5867,7 @@
      <defNative>Пек уды, а стявтови.</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">кортамонь апак прядо</l>
      <stg>
@@ -5966,7 +5946,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">косто - а косто</l>
      <stg>
@@ -6168,7 +6148,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">кувать-а кувать</l>
      <stg>
@@ -7014,7 +6994,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">ломань юткова</l>
      <stg>
@@ -7109,7 +7089,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">лувонь апак кирде</l>
      <stg>
@@ -7502,7 +7482,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мезе лангскак</l>
      <stg>
@@ -7797,7 +7777,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мекс как</l>
      <stg>
@@ -7816,7 +7796,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мелень апак вите</l>
      <stg>
@@ -7831,7 +7811,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мелень апак пеле</l>
      <stg>
@@ -7846,7 +7826,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мелень апак путо</l>
      <stg>
@@ -7861,7 +7841,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мелень апак топавто</l>
      <stg>
@@ -7876,7 +7856,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мелень апак яво</l>
      <stg>
@@ -7891,7 +7871,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мелень ваномга</l>
      <stg>
@@ -7910,7 +7890,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мелень ютавтомга</l>
      <stg>
@@ -7946,7 +7926,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мельс паросо</l>
      <stg>
@@ -7983,7 +7963,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">мелявксонь апак сода</l>
      <stg>
@@ -8190,7 +8170,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">невтемань кисэ</l>
@@ -8216,7 +8196,7 @@
      </tg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">недлянь ютазь</l>
@@ -8242,7 +8222,7 @@
      </tg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">неень шкасто</l>
@@ -8359,7 +8339,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">нешке велекс</l>
      <stg>
@@ -8499,7 +8479,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-       <sem semRelType="synonym" lemmaID="весе" class=""/>
+       <sem lemmaID="весе" semRelType="synonym" class=""/>
      </semantics>
      <tg xml:lang="fin">
        <t pos="Adv">aivan</t>
@@ -8686,7 +8666,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">оймень апак полавто</l>
      <stg>
@@ -8701,7 +8681,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">оймень апак тално</l>
      <stg>
@@ -8716,7 +8696,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">оймень ды седеень апак манче</l>
      <stg>
@@ -8731,7 +8711,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">оймень ды седеень бажамосо</l>
      <stg>
@@ -8809,7 +8789,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">олякс ─ олясо</l>
      <stg>
@@ -8928,7 +8908,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">орта ушов</l>
      <stg>
@@ -8947,7 +8927,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">оршамонь апак кая</l>
      <stg>
@@ -8962,7 +8942,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">оршамонь апак чочне</l>
      <stg>
@@ -9011,7 +8991,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">палонь пал</l>
      <stg>
@@ -9026,7 +9006,7 @@
      <defNative>Мезеяк керсезь палсо. Калбазось керсезь палонь пал. Умаресь керсезь палонь пал.</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пальтонь апак кая</l>
      <stg>
@@ -9102,7 +9082,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пасибань апак ёвта</l>
      <stg>
@@ -9306,7 +9286,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пелеве шкане</l>
      <stg>
@@ -9568,7 +9548,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пиземе шкасто</l>
      <stg>
@@ -9630,7 +9610,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пилень потомомс</l>
      <stg>
@@ -9666,7 +9646,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пильгень апак нарда</l>
      <stg>
@@ -9681,7 +9661,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пильгень апак юкстне</l>
      <stg>
@@ -9696,7 +9676,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пиштень галят</l>
      <stg>
@@ -9734,7 +9714,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">полок удалов</l>
      <stg>
@@ -9768,7 +9748,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">попонтень апак яксе</l>
      <stg>
@@ -9885,7 +9865,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">превень маштомс</l>
      <stg>
@@ -9925,7 +9905,7 @@
      <defNative>вал пелькс.</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пря алов</l>
      <stg>
@@ -9974,7 +9954,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">прянь трокс</l>
      <stg>
@@ -10087,7 +10067,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">ризксэнь апак сода</l>
      <stg>
@@ -10133,7 +10113,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-       <semRel semRelType="see" lemmaID="ристьсэ"/>
+       <semRel lemmaID="ристьсэ" semRelType="see"/>
      <defNative/>
      <xg>
        <x>Кортась Канаев ды вансь, кода ламонь чамава рисьсэ чудить сельведть.</x>
@@ -10336,7 +10316,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">се шкане</l>
      <stg>
@@ -10458,7 +10438,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">секе тев</l>
      <stg>
@@ -10499,7 +10479,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">сельгень прамс</l>
      <stg>
@@ -10636,7 +10616,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">сияко</l>
@@ -10776,7 +10756,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">сталмо прясо</l>
@@ -10895,7 +10875,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">сыре прясо</l>
      <stg>
@@ -10957,7 +10937,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">сэредьксэнь апак тее</l>
      <stg>
@@ -11019,7 +10999,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">сюронь кекшема тарка</l>
      <stg>
@@ -11217,7 +11197,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">талномань апак сода</l>
      <stg>
@@ -11232,7 +11212,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">танстень апак сода</l>
      <stg>
@@ -11392,7 +11372,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">теке басом</l>
      <stg>
@@ -11411,7 +11391,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">теке тев</l>
      <stg>
@@ -11430,7 +11410,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">теле ладсо</l>
      <stg>
@@ -11448,7 +11428,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">телень перть</l>
      <stg>
@@ -11736,7 +11716,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">тияко</l>
@@ -12069,7 +12049,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">тувако</l>
@@ -12703,7 +12683,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чаво кедть</l>
      <stg>
@@ -12721,7 +12701,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чавонь кедть</l>
      <stg>
@@ -12857,7 +12837,7 @@
      </tg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чи валдова</l>
      <stg>
@@ -12872,7 +12852,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чи каршо</l>
      <stg>
@@ -12887,7 +12867,7 @@
      <defNative>Цастнэнь молема лувост каршо ─ керш пелев. ‹› чи мельга.</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чи куншка</l>
      <stg>
@@ -12906,7 +12886,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чи мельга</l>
      <stg>
@@ -12959,7 +12939,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чинзэ чоп</l>
      <stg>
@@ -12974,7 +12954,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чинь чишка</l>
      <stg>
@@ -12993,7 +12973,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чинь чоп</l>
      <stg>
@@ -13208,7 +13188,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чокшне ланга</l>
      <stg>
@@ -13321,7 +13301,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">чувто ало</l>
      <stg>
@@ -13793,7 +13773,7 @@
      <defNative>Эрзя ладсо. Кортамс эрзякс. Печкемс кши эрзякс (эчкстэ). Ледемс эрзякс тикше (видестэ-парсте).</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">эрьва кода</l>
@@ -13818,7 +13798,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">эрьва косо</l>
@@ -13845,7 +13825,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">эрьва косто</l>
@@ -13871,7 +13851,7 @@
      </tg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">эрьва кува</l>
@@ -13913,7 +13893,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">эсь койсэ</l>
      <stg>
@@ -13931,7 +13911,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">эсь мельсэ</l>
      <stg>
@@ -13949,7 +13929,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">эсь пачканзо</l>
      <stg>
@@ -13967,7 +13947,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">эсь питнесэнзэ</l>
      <stg>
@@ -13985,7 +13965,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">эсь потмова</l>
@@ -14006,7 +13986,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Adv">эсьсэнзэ арсеви</l>
@@ -14267,7 +14247,7 @@
      </tg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">ёжонь апак сода</l>
      <stg>
